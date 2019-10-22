@@ -11,6 +11,7 @@ function ComputarJogos(jogo){//JOGO = ANO 0 , HOME 1 , AWAY 2, HOME GOAL 3, AWAY
     let auxTime2 = jogo[2];
     let result = jogo[5];
     
+    
 
     let auxTime1Table = procurarTime(auxTime1);
     let auxTime2Table = procurarTime(auxTime2)
@@ -159,6 +160,8 @@ let trainConfig = {iterations: 20000, // the maximum times to iterate the traini
       callback: null, // a periodic call back that can be triggered while training --> null or function
       callbackPeriod: 10, // the number of iterations through the training data between callback calls --> number greater than 0
       timeout: Infinity};
+      
+model.train()
 
 /*model.train({ input: { lebron: 32, restOfTeam: 64 }, output: { win: 1, loss: 0 } })
 model.train({ input: { lebron: 24, restOfTeam: 67 }, output: { win: 0, loss: 1 } })
