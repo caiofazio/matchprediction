@@ -1,0 +1,9 @@
+input:
+rodadas;
+pontos;
+gols da situação;
+gols sofridos da situação;
+rodadas:
+pontos;
+gols situacao
+gols sofridos situacao

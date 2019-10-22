@@ -1,0 +1,2931 @@
+Season,Home,Away,HG,AG,Res
+2012,Palmeiras,Portuguesa,1,1,D
+2012,Sport Recife,Flamengo RJ,1,1,D
+2012,Figueirense,Nautico,2,1,H
+2012,Botafogo RJ,Sao Paulo,4,2,H
+2012,Corinthians,Fluminense,0,1,A
+2012,Internacional,Coritiba,2,0,H
+2012,Ponte Preta,Atletico-MG,0,1,A
+2012,Bahia,Santos,0,0,D
+2012,Cruzeiro,Atletico GO,0,0,D
+2012,Vasco,Gremio,2,1,H
+2012,Atletico GO,Ponte Preta,1,1,D
+2012,Flamengo RJ,Internacional,3,3,D
+2012,Portuguesa,Vasco,0,1,A
+2012,Nautico,Cruzeiro,0,0,D
+2012,Atletico-MG,Corinthians,1,0,H
+2012,Coritiba,Botafogo RJ,2,3,A
+2012,Santos,Sport Recife,0,0,D
+2012,Sao Paulo,Bahia,1,0,H
+2012,Fluminense,Figueirense,2,2,D
+2012,Gremio,Palmeiras,1,0,H
+2012,Atletico GO,Gremio,0,1,A
+2012,Sport Recife,Palmeiras,2,1,H
+2012,Atletico-MG,Bahia,1,1,D
+2012,Coritiba,Portuguesa,2,0,H
+2012,Vasco,Nautico,4,2,H
+2012,Internacional,Sao Paulo,1,0,H
+2012,Ponte Preta,Flamengo RJ,2,2,D
+2012,Santos,Fluminense,1,1,D
+2012,Botafogo RJ,Cruzeiro,2,3,A
+2012,Corinthians,Figueirense,1,1,D
+2012,Flamengo RJ,Coritiba,3,1,H
+2012,Palmeiras,Atletico-MG,0,1,A
+2012,Portuguesa,Atletico GO,2,0,H
+2012,Bahia,Vasco,1,2,A
+2012,Fluminense,Internacional,0,0,D
+2012,Gremio,Corinthians,2,0,H
+2012,Cruzeiro,Sport Recife,1,0,H
+2012,Figueirense,Ponte Preta,0,0,D
+2012,Nautico,Botafogo RJ,3,2,H
+2012,Sao Paulo,Santos,1,0,H
+2012,Cruzeiro,Figueirense,1,0,H
+2012,Internacional,Botafogo RJ,1,2,A
+2012,Fluminense,Portuguesa,4,1,H
+2012,Bahia,Sport Recife,2,1,H
+2012,Flamengo RJ,Santos,1,0,H
+2012,Palmeiras,Vasco,1,1,D
+2012,Sao Paulo,Atletico-MG,1,0,H
+2012,Coritiba,Atletico GO,3,0,H
+2012,Nautico,Gremio,1,0,H
+2012,Ponte Preta,Corinthians,1,0,H
+2012,Portuguesa,Sao Paulo,1,0,H
+2012,Vasco,Cruzeiro,1,3,A
+2012,Atletico-MG,Nautico,5,1,H
+2012,Corinthians,Palmeiras,2,1,H
+2012,Figueirense,Bahia,1,1,D
+2012,Gremio,Flamengo RJ,2,0,H
+2012,Atletico GO,Fluminense,1,4,A
+2012,Botafogo RJ,Ponte Preta,1,2,A
+2012,Santos,Coritiba,2,2,D
+2012,Sport Recife,Internacional,0,2,A
+2012,Cruzeiro,Sao Paulo,2,3,A
+2012,Nautico,Fluminense,0,2,A
+2012,Vasco,Ponte Preta,3,2,H
+2012,Bahia,Internacional,1,1,D
+2012,Coritiba,Sport Recife,2,3,A
+2012,Portuguesa,Santos,0,0,D
+2012,Flamengo RJ,Atletico GO,3,2,H
+2012,Gremio,Atletico-MG,0,1,A
+2012,Palmeiras,Figueirense,3,1,H
+2012,Botafogo RJ,Bahia,3,0,H
+2012,Internacional,Cruzeiro,2,1,H
+2012,Atletico GO,Nautico,0,1,A
+2012,Figueirense,Vasco,1,1,D
+2012,Fluminense,Flamengo RJ,1,0,H
+2012,Santos,Gremio,4,2,H
+2012,Sao Paulo,Coritiba,3,1,H
+2012,Atletico-MG,Portuguesa,2,0,H
+2012,Ponte Preta,Palmeiras,1,0,H
+2012,Sport Recife,Corinthians,1,1,D
+2012,Corinthians,Botafogo RJ,1,3,A
+2012,Corinthians,Nautico,2,1,H
+2012,Figueirense,Atletico-MG,3,4,A
+2012,Ponte Preta,Coritiba,4,1,H
+2012,Bahia,Flamengo RJ,1,2,A
+2012,Botafogo RJ,Fluminense,1,1,D
+2012,Cruzeiro,Gremio,1,3,A
+2012,Internacional,Santos,0,0,D
+2012,Palmeiras,Sao Paulo,1,1,D
+2012,Sport Recife,Portuguesa,2,1,H
+2012,Vasco,Atletico GO,1,0,H
+2012,Gremio,Sport Recife,3,1,H
+2012,Santos,Botafogo RJ,0,0,D
+2012,Nautico,Ponte Preta,3,0,H
+2012,Portuguesa,Cruzeiro,0,2,A
+2012,Atletico-MG,Internacional,3,1,H
+2012,Flamengo RJ,Corinthians,0,3,A
+2012,Sao Paulo,Vasco,0,1,A
+2012,Atletico GO,Figueirense,3,2,H
+2012,Coritiba,Palmeiras,1,1,D
+2012,Fluminense,Bahia,4,0,H
+2012,Sport Recife,Atletico-MG,1,4,A
+2012,Vasco,Santos,2,0,H
+2012,Corinthians,Portuguesa,1,1,D
+2012,Cruzeiro,Flamengo RJ,1,0,H
+2012,Figueirense,Sao Paulo,0,2,A
+2012,Internacional,Atletico GO,4,1,H
+2012,Palmeiras,Nautico,3,0,H
+2012,Bahia,Coritiba,2,2,D
+2012,Botafogo RJ,Gremio,0,1,A
+2012,Ponte Preta,Fluminense,1,2,A
+2012,Figueirense,Internacional,0,1,A
+2012,Ponte Preta,Sport Recife,1,1,D
+2012,Nautico,Coritiba,3,4,A
+2012,Vasco,Botafogo RJ,1,0,H
+2012,Atletico GO,Sao Paulo,4,3,H
+2012,Corinthians,Cruzeiro,2,0,H
+2012,Gremio,Fluminense,1,0,H
+2012,Atletico-MG,Santos,2,0,H
+2012,Flamengo RJ,Portuguesa,0,0,D
+2012,Palmeiras,Bahia,0,2,A
+2012,Coritiba,Gremio,2,1,H
+2012,Internacional,Vasco,0,0,D
+2012,Botafogo RJ,Figueirense,1,0,H
+2012,Bahia,Corinthians,0,0,D
+2012,Fluminense,Atletico-MG,0,0,D
+2012,Sao Paulo,Flamengo RJ,4,1,H
+2012,Sport Recife,Atletico GO,0,0,D
+2012,Cruzeiro,Palmeiras,2,1,H
+2012,Portuguesa,Nautico,3,1,H
+2012,Santos,Ponte Preta,2,1,H
+2012,Atletico GO,Botafogo RJ,1,2,A
+2012,Palmeiras,Internacional,0,1,A
+2012,Portuguesa,Figueirense,2,0,H
+2012,Coritiba,Fluminense,0,2,A
+2012,Gremio,Bahia,3,1,H
+2012,Sao Paulo,Sport Recife,1,0,H
+2012,Vasco,Corinthians,0,0,D
+2012,Cruzeiro,Ponte Preta,1,2,A
+2012,Nautico,Santos,3,0,H
+2012,Internacional,Nautico,0,0,D
+2012,Sport Recife,Vasco,0,2,A
+2012,Bahia,Portuguesa,0,0,D
+2012,Corinthians,Atletico GO,1,1,D
+2012,Botafogo RJ,Palmeiras,1,2,A
+2012,Figueirense,Flamengo RJ,0,2,A
+2012,Santos,Cruzeiro,4,2,H
+2012,Atletico-MG,Coritiba,1,0,H
+2012,Fluminense,Sao Paulo,2,1,H
+2012,Ponte Preta,Gremio,0,0,D
+2012,Bahia,Cruzeiro,0,1,A
+2012,Santos,Atletico GO,2,2,D
+2012,Sport Recife,Figueirense,0,1,A
+2012,Flamengo RJ,Nautico,2,0,H
+2012,Atletico-MG,Vasco,1,0,H
+2012,Coritiba,Corinthians,1,2,A
+2012,Internacional,Ponte Preta,2,1,H
+2012,Sao Paulo,Gremio,1,2,A
+2012,Fluminense,Palmeiras,1,0,H
+2012,Portuguesa,Botafogo RJ,1,1,D
+2012,Cruzeiro,Fluminense,1,1,D
+2012,Gremio,Portuguesa,1,2,A
+2012,Atletico GO,Atletico-MG,1,1,D
+2012,Ponte Preta,Bahia,0,2,A
+2012,Botafogo RJ,Sport Recife,2,0,H
+2012,Nautico,Sao Paulo,3,0,H
+2012,Palmeiras,Flamengo RJ,1,0,H
+2012,Corinthians,Internacional,1,0,H
+2012,Figueirense,Santos,1,3,A
+2012,Vasco,Coritiba,2,2,D
+2012,Fluminense,Sport Recife,1,0,H
+2012,Nautico,Bahia,1,0,H
+2012,Sao Paulo,Ponte Preta,3,0,H
+2012,Atletico-MG,Botafogo RJ,3,2,H
+2012,Coritiba,Cruzeiro,4,0,H
+2012,Gremio,Figueirense,4,0,H
+2012,Santos,Corinthians,3,2,H
+2012,Atletico GO,Palmeiras,2,1,H
+2012,Flamengo RJ,Vasco,1,0,H
+2012,Portuguesa,Internacional,1,1,D
+2012,Palmeiras,Santos,1,2,A
+2012,Vasco,Fluminense,1,2,A
+2012,Ponte Preta,Portuguesa,2,1,H
+2012,Botafogo RJ,Flamengo RJ,0,0,D
+2012,Corinthians,Sao Paulo,1,2,A
+2012,Figueirense,Coritiba,3,1,H
+2012,Internacional,Gremio,0,1,A
+2012,Bahia,Atletico GO,1,1,D
+2012,Cruzeiro,Atletico-MG,2,2,D
+2012,Sport Recife,Nautico,0,0,D
+2012,Coritiba,Internacional,1,0,H
+2012,Santos,Bahia,1,3,A
+2012,Atletico-MG,Ponte Preta,2,2,D
+2012,Nautico,Figueirense,3,2,H
+2012,Portuguesa,Palmeiras,3,0,H
+2012,Atletico GO,Cruzeiro,0,2,A
+2012,Fluminense,Corinthians,1,1,D
+2012,Gremio,Vasco,2,0,H
+2012,Flamengo RJ,Sport Recife,1,1,D
+2012,Sao Paulo,Botafogo RJ,4,0,H
+2012,Figueirense,Fluminense,2,2,D
+2012,Palmeiras,Gremio,0,0,D
+2012,Vasco,Portuguesa,2,0,H
+2012,Bahia,Sao Paulo,1,0,H
+2012,Corinthians,Atletico-MG,1,0,H
+2012,Internacional,Flamengo RJ,4,1,H
+2012,Sport Recife,Santos,2,1,H
+2012,Botafogo RJ,Coritiba,2,0,H
+2012,Cruzeiro,Nautico,3,0,H
+2012,Ponte Preta,Atletico GO,3,1,H
+2012,Bahia,Atletico-MG,0,0,D
+2012,Flamengo RJ,Ponte Preta,0,1,A
+2012,Nautico,Vasco,1,1,D
+2012,Portuguesa,Coritiba,3,0,H
+2012,Gremio,Atletico GO,2,1,H
+2012,Cruzeiro,Botafogo RJ,1,3,A
+2012,Figueirense,Corinthians,1,0,H
+2012,Sao Paulo,Internacional,1,1,D
+2012,Fluminense,Santos,3,1,H
+2012,Palmeiras,Sport Recife,3,1,H
+2012,Coritiba,Flamengo RJ,3,0,H
+2012,Ponte Preta,Figueirense,2,2,D
+2012,Corinthians,Gremio,3,1,H
+2012,Botafogo RJ,Nautico,3,1,H
+2012,Internacional,Fluminense,0,1,A
+2012,Santos,Sao Paulo,0,0,D
+2012,Atletico GO,Portuguesa,1,1,D
+2012,Atletico-MG,Palmeiras,3,0,H
+2012,Sport Recife,Cruzeiro,2,1,H
+2012,Vasco,Bahia,0,4,A
+2012,Corinthians,Ponte Preta,1,1,D
+2012,Figueirense,Cruzeiro,2,0,H
+2012,Portuguesa,Fluminense,0,2,A
+2012,Atletico GO,Coritiba,1,2,A
+2012,Sport Recife,Bahia,1,1,D
+2012,Atletico-MG,Sao Paulo,1,0,H
+2012,Santos,Flamengo RJ,2,0,H
+2012,Vasco,Palmeiras,3,1,H
+2012,Botafogo RJ,Internacional,1,1,D
+2012,Gremio,Nautico,2,0,H
+2012,Sao Paulo,Portuguesa,3,1,H
+2012,Fluminense,Atletico GO,1,2,A
+2012,Bahia,Figueirense,2,1,H
+2012,Coritiba,Santos,1,2,A
+2012,Cruzeiro,Vasco,1,1,D
+2012,Nautico,Atletico-MG,1,0,H
+2012,Palmeiras,Corinthians,0,2,A
+2012,Flamengo RJ,Gremio,1,1,D
+2012,Internacional,Sport Recife,2,2,D
+2012,Ponte Preta,Botafogo RJ,0,0,D
+2012,Figueirense,Palmeiras,1,3,A
+2012,Fluminense,Nautico,2,1,H
+2012,Santos,Portuguesa,1,3,A
+2012,Atletico GO,Flamengo RJ,1,2,A
+2012,Botafogo RJ,Corinthians,2,2,D
+2012,Ponte Preta,Vasco,0,0,D
+2012,Sao Paulo,Cruzeiro,1,0,H
+2012,Atletico-MG,Gremio,0,0,D
+2012,Internacional,Bahia,3,1,H
+2012,Sport Recife,Coritiba,1,0,H
+2012,Flamengo RJ,Atletico-MG,2,1,H
+2012,Cruzeiro,Internacional,0,0,D
+2012,Nautico,Atletico GO,2,0,H
+2012,Portuguesa,Atletico-MG,1,1,D
+2012,Vasco,Figueirense,3,1,H
+2012,Palmeiras,Ponte Preta,3,0,H
+2012,Bahia,Botafogo RJ,2,0,H
+2012,Corinthians,Sport Recife,3,0,H
+2012,Coritiba,Sao Paulo,1,1,D
+2012,Flamengo RJ,Fluminense,0,1,A
+2012,Gremio,Santos,1,1,D
+2012,Coritiba,Ponte Preta,1,0,H
+2012,Flamengo RJ,Bahia,0,0,D
+2012,Portuguesa,Sport Recife,5,1,H
+2012,Sao Paulo,Palmeiras,3,0,H
+2012,Atletico GO,Vasco,0,1,A
+2012,Nautico,Corinthians,2,1,H
+2012,Santos,Internacional,1,1,D
+2012,Atletico-MG,Figueirense,6,0,H
+2012,Fluminense,Botafogo RJ,1,0,H
+2012,Gremio,Cruzeiro,2,1,H
+2012,Bahia,Fluminense,0,2,A
+2012,Botafogo RJ,Santos,0,2,A
+2012,Cruzeiro,Portuguesa,2,0,H
+2012,Figueirense,Atletico GO,3,1,H
+2012,Ponte Preta,Nautico,2,1,H
+2012,Corinthians,Flamengo RJ,3,2,H
+2012,Internacional,Atletico-MG,3,0,H
+2012,Vasco,Sao Paulo,0,2,A
+2012,Palmeiras,Coritiba,0,1,A
+2012,Sport Recife,Gremio,1,3,A
+2012,Atletico GO,Internacional,3,1,H
+2012,Flamengo RJ,Cruzeiro,1,1,D
+2012,Portuguesa,Corinthians,1,1,D
+2012,Atletico-MG,Sport Recife,2,1,H
+2012,Coritiba,Bahia,2,1,H
+2012,Nautico,Palmeiras,1,0,H
+2012,Santos,Vasco,2,0,H
+2012,Sao Paulo,Figueirense,2,0,H
+2012,Fluminense,Ponte Preta,2,1,H
+2012,Gremio,Botafogo RJ,1,1,D
+2012,Bahia,Palmeiras,0,1,A
+2012,Coritiba,Nautico,2,1,H
+2012,Fluminense,Gremio,2,2,D
+2012,Internacional,Figueirense,2,3,A
+2012,Cruzeiro,Corinthians,2,0,H
+2012,Portuguesa,Flamengo RJ,0,0,D
+2012,Santos,Atletico-MG,2,2,D
+2012,Botafogo RJ,Vasco,3,2,H
+2012,Sao Paulo,Atletico GO,2,0,H
+2012,Sport Recife,Ponte Preta,3,1,H
+2012,Corinthians,Bahia,1,1,D
+2012,Gremio,Coritiba,0,0,D
+2012,Palmeiras,Cruzeiro,2,0,H
+2012,Atletico-MG,Fluminense,3,2,H
+2012,Flamengo RJ,Sao Paulo,1,0,H
+2012,Nautico,Portuguesa,0,0,D
+2012,Atletico GO,Sport Recife,0,1,A
+2012,Ponte Preta,Santos,1,0,H
+2012,Vasco,Internacional,1,2,A
+2012,Figueirense,Botafogo RJ,0,2,A
+2012,Fluminense,Coritiba,2,1,H
+2012,Ponte Preta,Cruzeiro,1,0,H
+2012,Santos,Nautico,0,0,D
+2012,Corinthians,Vasco,1,0,H
+2012,Internacional,Palmeiras,2,1,H
+2012,Bahia,Gremio,1,1,D
+2012,Botafogo RJ,Atletico GO,4,0,H
+2012,Figueirense,Portuguesa,0,0,D
+2012,Sport Recife,Sao Paulo,2,4,A
+2012,Atletico-MG,Flamengo RJ,1,1,D
+2012,Cruzeiro,Santos,0,4,A
+2012,Gremio,Ponte Preta,1,0,H
+2012,Flamengo RJ,Figueirense,1,0,H
+2012,Atletico GO,Corinthians,0,2,A
+2012,Palmeiras,Botafogo RJ,2,2,D
+2012,Sao Paulo,Fluminense,1,1,D
+2012,Vasco,Sport Recife,0,3,A
+2012,Coritiba,Atletico-MG,1,0,H
+2012,Nautico,Internacional,3,0,H
+2012,Portuguesa,Bahia,0,1,A
+2012,Atletico GO,Santos,2,1,H
+2012,Botafogo RJ,Portuguesa,3,0,H
+2012,Corinthians,Coritiba,5,1,H
+2012,Gremio,Sao Paulo,2,1,H
+2012,Palmeiras,Fluminense,2,3,A
+2012,Vasco,Atletico-MG,1,1,D
+2012,Cruzeiro,Bahia,3,1,H
+2012,Figueirense,Sport Recife,1,1,D
+2012,Nautico,Flamengo RJ,0,1,A
+2012,Ponte Preta,Internacional,1,0,H
+2012,Coritiba,Vasco,1,2,A
+2012,Santos,Figueirense,2,0,H
+2012,Atletico-MG,Atletico GO,2,2,D
+2012,Bahia,Ponte Preta,1,0,H
+2012,Flamengo RJ,Palmeiras,1,1,D
+2012,Fluminense,Cruzeiro,0,2,A
+2012,Sao Paulo,Nautico,2,1,H
+2012,Internacional,Corinthians,0,2,A
+2012,Portuguesa,Gremio,2,2,D
+2012,Sport Recife,Botafogo RJ,2,0,H
+2012,Corinthians,Santos,1,1,D
+2012,Vasco,Flamengo RJ,1,1,D
+2012,Bahia,Nautico,1,1,D
+2012,Botafogo RJ,Atletico-MG,2,3,A
+2012,Cruzeiro,Coritiba,2,1,H
+2012,Figueirense,Gremio,2,4,A
+2012,Internacional,Portuguesa,0,2,A
+2012,Palmeiras,Atletico GO,1,2,A
+2012,Ponte Preta,Sao Paulo,0,0,D
+2012,Sport Recife,Fluminense,1,1,D
+2012,Flamengo RJ,Botafogo RJ,2,2,D
+2012,Santos,Palmeiras,3,1,H
+2012,Atletico GO,Bahia,0,1,A
+2012,Atletico-MG,Cruzeiro,3,2,H
+2012,Coritiba,Figueirense,3,0,H
+2012,Fluminense,Vasco,1,2,A
+2012,Gremio,Internacional,0,0,D
+2012,Nautico,Sport Recife,1,0,H
+2012,Portuguesa,Ponte Preta,0,0,D
+2012,Sao Paulo,Corinthians,3,1,H
+2013,Vasco,Portuguesa,1,0,H
+2013,Vitoria,Internacional,2,2,D
+2013,Corinthians,Botafogo RJ,1,1,D
+2013,Criciuma,Bahia,3,1,H
+2013,Gremio,Nautico,2,0,H
+2013,Ponte Preta,Sao Paulo,0,2,A
+2013,Santos,Flamengo RJ,0,0,D
+2013,Coritiba,Atletico-MG,2,1,H
+2013,Cruzeiro,Goias,5,0,H
+2013,Fluminense,Atletico-PR,2,1,H
+2013,Atletico-PR,Cruzeiro,2,2,D
+2013,Botafogo RJ,Santos,2,1,H
+2013,Sao Paulo,Vasco,5,1,H
+2013,Bahia,Coritiba,0,0,D
+2013,Flamengo RJ,Ponte Preta,0,2,A
+2013,Nautico,Vitoria,0,3,A
+2013,Goias,Corinthians,1,1,D
+2013,Internacional,Criciuma,2,0,H
+2013,Atletico-PR,Flamengo RJ,2,2,D
+2013,Botafogo RJ,Cruzeiro,2,1,H
+2013,Santos,Gremio,1,1,D
+2013,Goias,Coritiba,1,1,D
+2013,Vitoria,Vasco,2,0,H
+2013,Corinthians,Ponte Preta,1,0,H
+2013,Atletico-MG,Sao Paulo,0,0,D
+2013,Fluminense,Criciuma,3,0,H
+2013,Internacional,Bahia,1,2,A
+2013,Nautico,Portuguesa,2,2,D
+2013,Criciuma,Santos,3,1,H
+2013,Portuguesa,Internacional,1,1,D
+2013,Sao Paulo,Goias,0,1,A
+2013,Gremio,Vitoria,1,0,H
+2013,Ponte Preta,Atletico-PR,3,4,A
+2013,Vasco,Atletico-MG,2,0,H
+2013,Bahia,Botafogo RJ,2,1,H
+2013,Cruzeiro,Corinthians,1,0,H
+2013,Flamengo RJ,Nautico,0,1,A
+2013,Coritiba,Fluminense,2,1,H
+2013,Criciuma,Flamengo RJ,0,3,A
+2013,Cruzeiro,Internacional,2,2,D
+2013,Corinthians,Portuguesa,0,0,D
+2013,Vasco,Bahia,1,1,D
+2013,Ponte Preta,Botafogo RJ,0,2,A
+2013,Atletico-MG,Gremio,2,0,H
+2013,Coritiba,Nautico,1,0,H
+2013,Fluminense,Goias,2,1,H
+2013,Vitoria,Atletico-PR,3,2,H
+2013,Santos,Atletico-MG,1,0,H
+2013,Gremio,Sao Paulo,1,1,D
+2013,Portuguesa,Fluminense,2,1,H
+2013,Atletico-PR,Gremio,1,1,D
+2013,Flamengo RJ,Coritiba,2,2,D
+2013,Nautico,Ponte Preta,1,3,A
+2013,Portuguesa,Cruzeiro,1,1,D
+2013,Bahia,Corinthians,0,2,A
+2013,Goias,Vitoria,1,0,H
+2013,Internacional,Vasco,5,3,H
+2013,Sao Paulo,Santos,0,2,A
+2013,Atletico-MG,Criciuma,3,2,H
+2013,Botafogo RJ,Fluminense,1,0,H
+2013,Sao Paulo,Bahia,1,2,A
+2013,Fluminense,Internacional,2,3,A
+2013,Santos,Portuguesa,4,1,H
+2013,Ponte Preta,Bahia,0,0,D
+2013,Corinthians,Atletico-MG,0,1,A
+2013,Coritiba,Atletico-PR,1,0,H
+2013,Gremio,Botafogo RJ,2,1,H
+2013,Vitoria,Sao Paulo,3,2,H
+2013,Criciuma,Goias,0,0,D
+2013,Cruzeiro,Nautico,3,0,H
+2013,Vasco,Flamengo RJ,0,1,A
+2013,Botafogo RJ,Nautico,2,0,H
+2013,Criciuma,Gremio,2,1,H
+2013,Sao Paulo,Cruzeiro,0,3,A
+2013,Atletico-PR,Corinthians,1,1,D
+2013,Internacional,Flamengo RJ,1,0,H
+2013,Santos,Coritiba,2,2,D
+2013,Vitoria,Bahia,0,0,D
+2013,Fluminense,Vasco,1,3,A
+2013,Goias,Portuguesa,2,1,H
+2013,Sao Paulo,Internacional,0,1,A
+2013,Portuguesa,Atletico-PR,2,3,A
+2013,Vasco,Criciuma,3,2,H
+2013,Ponte Preta,Santos,1,0,H
+2013,Corinthians,Sao Paulo,0,0,D
+2013,Cruzeiro,Atletico-MG,4,1,H
+2013,Gremio,Fluminense,2,0,H
+2013,Nautico,Internacional,3,0,H
+2013,Bahia,Goias,2,1,H
+2013,Coritiba,Vitoria,1,1,D
+2013,Flamengo RJ,Botafogo RJ,1,1,D
+2013,Atletico-MG,Atletico-PR,1,2,A
+2013,Fluminense,Cruzeiro,1,0,H
+2013,Portuguesa,Criciuma,1,1,D
+2013,Coritiba,Ponte Preta,5,3,H
+2013,Bahia,Flamengo RJ,3,0,H
+2013,Corinthians,Gremio,2,0,H
+2013,Botafogo RJ,Vitoria,2,0,H
+2013,Goias,Vasco,1,1,D
+2013,Cruzeiro,Coritiba,1,0,H
+2013,Atletico-PR,Goias,2,0,H
+2013,Criciuma,Corinthians,0,2,A
+2013,Flamengo RJ,Atletico-MG,3,0,H
+2013,Gremio,Internacional,1,1,D
+2013,Ponte Preta,Fluminense,1,1,D
+2013,Vasco,Botafogo RJ,2,3,A
+2013,Vitoria,Portuguesa,2,1,H
+2013,Criciuma,Cruzeiro,1,2,A
+2013,Vitoria,Fluminense,1,1,D
+2013,Atletico-PR,Bahia,1,0,H
+2013,Flamengo RJ,Portuguesa,1,1,D
+2013,Atletico-MG,Botafogo RJ,2,2,D
+2013,Goias,Nautico,2,1,H
+2013,Santos,Corinthians,1,1,D
+2013,Gremio,Coritiba,0,1,A
+2013,Vasco,Ponte Preta,1,1,D
+2013,Botafogo RJ,Goias,1,1,D
+2013,Nautico,Atletico-MG,0,0,D
+2013,Corinthians,Vitoria,2,0,H
+2013,Coritiba,Vasco,0,1,A
+2013,Cruzeiro,Santos,0,0,D
+2013,Fluminense,Flamengo RJ,2,3,A
+2013,Bahia,Gremio,0,3,A
+2013,Internacional,Atletico-PR,2,2,D
+2013,Ponte Preta,Criciuma,3,1,H
+2013,Portuguesa,Sao Paulo,2,1,H
+2013,Atletico-MG,Bahia,2,0,H
+2013,Criciuma,Nautico,3,0,H
+2013,Santos,Vasco,1,1,D
+2013,Coritiba,Portuguesa,1,1,D
+2013,Vitoria,Ponte Preta,3,1,H
+2013,Fluminense,Corinthians,0,0,D
+2013,Goias,Flamengo RJ,1,1,D
+2013,Gremio,Cruzeiro,3,1,H
+2013,Sao Paulo,Atletico-PR,1,1,D
+2013,Botafogo RJ,Internacional,3,3,D
+2013,Cruzeiro,Vitoria,5,1,H
+2013,Nautico,Fluminense,0,1,A
+2013,Vasco,Gremio,2,3,A
+2013,Corinthians,Coritiba,1,0,H
+2013,Flamengo RJ,Sao Paulo,0,0,D
+2013,Ponte Preta,Goias,0,1,A
+2013,Portuguesa,Botafogo RJ,1,3,A
+2013,Atletico-PR,Criciuma,2,1,H
+2013,Bahia,Santos,0,0,D
+2013,Internacional,Atletico-MG,0,0,D
+2013,Flamengo RJ,Gremio,0,1,A
+2013,Ponte Preta,Cruzeiro,0,2,A
+2013,Santos,Vitoria,2,0,H
+2013,Criciuma,Coritiba,2,1,H
+2013,Atletico-MG,Portuguesa,2,1,H
+2013,Bahia,Nautico,2,0,H
+2013,Sao Paulo,Fluminense,2,1,H
+2013,Vasco,Corinthians,1,1,D
+2013,Atletico-PR,Botafogo RJ,2,0,H
+2013,Internacional,Goias,3,3,D
+2013,Goias,Atletico-MG,0,0,D
+2013,Gremio,Ponte Preta,1,0,H
+2013,Nautico,Atletico-PR,1,4,A
+2013,Portuguesa,Bahia,4,2,H
+2013,Fluminense,Santos,0,2,A
+2013,Botafogo RJ,Sao Paulo,0,0,D
+2013,Corinthians,Flamengo RJ,4,0,H
+2013,Coritiba,Internacional,0,0,D
+2013,Vitoria,Criciuma,0,1,A
+2013,Cruzeiro,Vasco,5,3,H
+2013,Goias,Gremio,2,0,H
+2013,Nautico,Sao Paulo,0,1,A
+2013,Atletico-PR,Santos,2,1,H
+2013,Flamengo RJ,Vitoria,2,1,H
+2013,Portuguesa,Ponte Preta,2,1,H
+2013,Atletico-MG,Fluminense,2,2,D
+2013,Bahia,Cruzeiro,1,3,A
+2013,Internacional,Corinthians,1,0,H
+2013,Botafogo RJ,Coritiba,3,1,H
+2013,Nautico,Vasco,0,3,A
+2013,Sao Paulo,Criciuma,1,2,A
+2013,Fluminense,Bahia,1,0,H
+2013,Ponte Preta,Internacional,1,3,A
+2013,Santos,Goias,1,0,H
+2013,Vitoria,Atletico-MG,1,1,D
+2013,Gremio,Portuguesa,3,2,H
+2013,Corinthians,Nautico,0,0,D
+2013,Coritiba,Sao Paulo,2,0,H
+2013,Cruzeiro,Flamengo RJ,1,0,H
+2013,Criciuma,Botafogo RJ,1,2,A
+2013,Vasco,Atletico-PR,0,0,D
+2013,Internacional,Santos,1,2,A
+2013,Atletico-PR,Fluminense,1,1,D
+2013,Bahia,Criciuma,2,2,D
+2013,Goias,Cruzeiro,1,2,A
+2013,Botafogo RJ,Corinthians,1,0,H
+2013,Nautico,Gremio,0,2,A
+2013,Portuguesa,Vasco,2,0,H
+2013,Internacional,Vitoria,2,2,D
+2013,Atletico-MG,Coritiba,3,0,H
+2013,Flamengo RJ,Santos,2,1,H
+2013,Sao Paulo,Ponte Preta,1,0,H
+2013,Cruzeiro,Atletico-PR,1,0,H
+2013,Fluminense,Portuguesa,2,1,H
+2013,Corinthians,Goias,1,2,A
+2013,Coritiba,Bahia,2,2,D
+2013,Criciuma,Internacional,0,1,A
+2013,Ponte Preta,Flamengo RJ,1,1,D
+2013,Vasco,Sao Paulo,0,2,A
+2013,Gremio,Atletico-MG,0,1,A
+2013,Santos,Botafogo RJ,1,2,A
+2013,Vitoria,Nautico,2,1,H
+2013,Gremio,Santos,1,1,D
+2013,Vasco,Vitoria,1,2,A
+2013,Coritiba,Goias,2,2,D
+2013,Criciuma,Fluminense,1,2,A
+2013,Cruzeiro,Botafogo RJ,3,0,H
+2013,Ponte Preta,Corinthians,2,0,H
+2013,Sao Paulo,Atletico-MG,1,0,H
+2013,Flamengo RJ,Atletico-PR,2,4,A
+2013,Bahia,Internacional,2,0,H
+2013,Portuguesa,Nautico,3,0,H
+2013,Fluminense,Coritiba,1,1,D
+2013,Vitoria,Gremio,0,0,D
+2013,Botafogo RJ,Bahia,1,2,A
+2013,Corinthians,Cruzeiro,0,0,D
+2013,Goias,Sao Paulo,1,0,H
+2013,Internacional,Portuguesa,0,1,A
+2013,Nautico,Flamengo RJ,0,0,D
+2013,Atletico-MG,Vasco,2,1,H
+2013,Atletico-PR,Ponte Preta,1,0,H
+2013,Santos,Criciuma,2,1,H
+2013,Criciuma,Atletico-MG,1,1,D
+2013,Santos,Nautico,1,1,D
+2013,Goias,Fluminense,1,2,A
+2013,Nautico,Coritiba,3,0,H
+2013,Botafogo RJ,Ponte Preta,0,1,A
+2013,Bahia,Vasco,0,0,D
+2013,Flamengo RJ,Criciuma,4,1,H
+2013,Portuguesa,Corinthians,4,0,H
+2013,Sao Paulo,Gremio,0,1,A
+2013,Atletico-MG,Santos,3,1,H
+2013,Atletico-PR,Vitoria,3,5,A
+2013,Internacional,Cruzeiro,1,2,A
+2013,Ponte Preta,Nautico,1,2,A
+2013,Cruzeiro,Portuguesa,4,0,H
+2013,Gremio,Atletico-PR,1,0,H
+2013,Fluminense,Botafogo RJ,1,1,D
+2013,Vitoria,Goias,2,1,H
+2013,Corinthians,Bahia,2,0,H
+2013,Coritiba,Flamengo RJ,0,2,A
+2013,Santos,Sao Paulo,3,0,H
+2013,Atletico-MG,Ponte Preta,4,0,H
+2013,Vasco,Internacional,3,1,H
+2013,Botafogo RJ,Gremio,0,1,A
+2013,Sao Paulo,Vitoria,3,2,H
+2013,Atletico-MG,Corinthians,0,0,D
+2013,Atletico-PR,Coritiba,2,1,H
+2013,Flamengo RJ,Vasco,1,1,D
+2013,Internacional,Fluminense,1,0,H
+2013,Nautico,Cruzeiro,1,4,A
+2013,Bahia,Ponte Preta,1,1,D
+2013,Goias,Criciuma,1,1,D
+2013,Portuguesa,Santos,3,0,H
+2013,Coritiba,Santos,1,0,H
+2013,Gremio,Criciuma,1,2,A
+2013,Bahia,Vitoria,2,0,H
+2013,Ponte Preta,Atletico-MG,2,0,H
+2013,Corinthians,Atletico-PR,0,0,D
+2013,Cruzeiro,Sao Paulo,0,2,A
+2013,Nautico,Botafogo RJ,1,3,A
+2013,Vasco,Fluminense,1,0,H
+2013,Portuguesa,Goias,1,2,A
+2013,Flamengo RJ,Internacional,2,1,H
+2013,Fluminense,Gremio,1,1,D
+2013,Vitoria,Coritiba,2,1,H
+2013,Santos,Ponte Preta,2,1,H
+2013,Atletico-MG,Cruzeiro,1,0,H
+2013,Criciuma,Vasco,3,2,H
+2013,Internacional,Nautico,4,1,H
+2013,Sao Paulo,Corinthians,0,0,D
+2013,Atletico-PR,Portuguesa,1,0,H
+2013,Botafogo RJ,Flamengo RJ,2,1,H
+2013,Goias,Bahia,3,1,H
+2013,Cruzeiro,Fluminense,1,0,H
+2013,Santos,Internacional,0,0,D
+2013,Criciuma,Portuguesa,1,3,A
+2013,Ponte Preta,Coritiba,1,0,H
+2013,Sao Paulo,Nautico,3,0,H
+2013,Atletico-PR,Atletico-MG,1,0,H
+2013,Flamengo RJ,Bahia,2,1,H
+2013,Gremio,Corinthians,1,0,H
+2013,Vasco,Goias,0,2,A
+2013,Vitoria,Botafogo RJ,1,0,H
+2013,Fluminense,Ponte Preta,1,1,D
+2013,Nautico,Santos,1,5,A
+2013,Corinthians,Criciuma,1,0,H
+2013,Atletico-MG,Flamengo RJ,1,0,H
+2013,Bahia,Sao Paulo,0,1,A
+2013,Goias,Atletico-PR,3,0,H
+2013,Internacional,Gremio,2,2,D
+2013,Botafogo RJ,Vasco,2,2,D
+2013,Coritiba,Cruzeiro,2,1,H
+2013,Portuguesa,Vitoria,1,1,D
+2013,Botafogo RJ,Atletico-MG,1,0,H
+2013,Cruzeiro,Criciuma,5,3,H
+2013,Bahia,Atletico-PR,1,1,D
+2013,Corinthians,Santos,1,1,D
+2013,Internacional,Sao Paulo,2,3,A
+2013,Ponte Preta,Vasco,2,1,H
+2013,Portuguesa,Flamengo RJ,0,0,D
+2013,Coritiba,Gremio,4,0,H
+2013,Fluminense,Vitoria,2,3,A
+2013,Nautico,Goias,0,2,A
+2013,Sao Paulo,Portuguesa,2,1,H
+2013,Vasco,Coritiba,2,1,H
+2013,Atletico-MG,Nautico,5,0,H
+2013,Goias,Botafogo RJ,1,0,H
+2013,Gremio,Bahia,0,0,D
+2013,Santos,Cruzeiro,0,1,A
+2013,Vitoria,Corinthians,1,1,D
+2013,Atletico-PR,Internacional,1,0,H
+2013,Criciuma,Ponte Preta,1,1,D
+2013,Flamengo RJ,Fluminense,1,0,H
+2013,Bahia,Atletico-MG,0,0,D
+2013,Portuguesa,Coritiba,0,0,D
+2013,Flamengo RJ,Goias,1,1,D
+2013,Atletico-PR,Sao Paulo,3,0,H
+2013,Cruzeiro,Gremio,3,0,H
+2013,Internacional,Botafogo RJ,2,1,H
+2013,Ponte Preta,Vitoria,0,3,A
+2013,Corinthians,Fluminense,1,0,H
+2013,Nautico,Criciuma,0,1,A
+2013,Vasco,Santos,2,2,D
+2013,Goias,Ponte Preta,2,0,H
+2013,Gremio,Vasco,1,0,H
+2013,Botafogo RJ,Portuguesa,0,0,D
+2013,Criciuma,Atletico-PR,2,1,H
+2013,Coritiba,Corinthians,0,1,A
+2013,Sao Paulo,Flamengo RJ,2,0,H
+2013,Vitoria,Cruzeiro,1,3,A
+2013,Santos,Bahia,3,0,H
+2013,Atletico-MG,Internacional,2,1,H
+2013,Fluminense,Nautico,2,0,H
+2013,Botafogo RJ,Atletico-PR,4,0,H
+2013,Coritiba,Criciuma,1,2,A
+2013,Corinthians,Vasco,0,0,D
+2013,Cruzeiro,Ponte Preta,2,2,D
+2013,Fluminense,Sao Paulo,2,1,H
+2013,Vitoria,Santos,2,0,H
+2013,Goias,Internacional,3,1,H
+2013,Gremio,Flamengo RJ,2,1,H
+2013,Nautico,Bahia,0,1,A
+2013,Portuguesa,Atletico-MG,2,0,H
+2013,Criciuma,Vitoria,1,1,D
+2013,Vasco,Cruzeiro,2,1,H
+2013,Atletico-MG,Goias,4,1,H
+2013,Atletico-PR,Nautico,6,1,H
+2013,Flamengo RJ,Corinthians,1,0,H
+2013,Ponte Preta,Gremio,1,1,D
+2013,Santos,Fluminense,1,0,H
+2013,Bahia,Portuguesa,1,0,H
+2013,Internacional,Coritiba,0,0,D
+2013,Sao Paulo,Botafogo RJ,1,1,D
+2013,Fluminense,Atletico-MG,2,2,D
+2013,Corinthians,Internacional,0,0,D
+2013,Coritiba,Botafogo RJ,2,1,H
+2013,Criciuma,Sao Paulo,1,0,H
+2013,Cruzeiro,Bahia,1,2,A
+2013,Ponte Preta,Portuguesa,0,2,A
+2013,Vasco,Nautico,2,0,H
+2013,Vitoria,Flamengo RJ,4,2,H
+2013,Gremio,Goias,1,0,H
+2013,Santos,Atletico-PR,2,1,H
+2013,Flamengo RJ,Cruzeiro,1,1,D
+2013,Nautico,Corinthians,1,0,H
+2013,Atletico-MG,Vitoria,2,2,D
+2013,Atletico-PR,Vasco,5,1,H
+2013,Bahia,Fluminense,1,2,A
+2013,Botafogo RJ,Criciuma,3,0,H
+2013,Goias,Santos,0,3,A
+2013,Internacional,Ponte Preta,0,0,D
+2013,Portuguesa,Gremio,0,0,D
+2013,Sao Paulo,Coritiba,0,1,A
+2014,Fluminense,Figueirense,3,0,H
+2014,Internacional,Vitoria,1,0,H
+2014,Chapecoense-SC,Coritiba,0,0,D
+2014,Atletico-MG,Corinthians,0,0,D
+2014,Atletico-PR,Gremio,1,0,H
+2014,Bahia,Cruzeiro,1,2,A
+2014,Sao Paulo,Botafogo RJ,3,0,H
+2014,Criciuma,Palmeiras,1,2,A
+2014,Flamengo RJ,Goias,0,0,D
+2014,Santos,Sport Recife,1,1,D
+2014,Coritiba,Santos,0,0,D
+2014,Palmeiras,Fluminense,0,1,A
+2014,Botafogo RJ,Internacional,2,2,D
+2014,Corinthians,Flamengo RJ,2,0,H
+2014,Cruzeiro,Sao Paulo,1,1,D
+2014,Vitoria,Atletico-PR,2,2,D
+2014,Figueirense,Bahia,0,2,A
+2014,Goias,Criciuma,1,0,H
+2014,Gremio,Atletico-MG,2,1,H
+2014,Sport Recife,Chapecoense-SC,2,1,H
+2014,Atletico-PR,Cruzeiro,2,3,A
+2014,Santos,Gremio,0,0,D
+2014,Sao Paulo,Coritiba,2,2,D
+2014,Fluminense,Vitoria,1,2,A
+2014,Bahia,Botafogo RJ,1,0,H
+2014,Criciuma,Figueirense,1,0,H
+2014,Flamengo RJ,Palmeiras,4,2,H
+2014,Internacional,Sport Recife,2,1,H
+2014,Atletico-MG,Goias,0,1,A
+2014,Chapecoense-SC,Corinthians,0,1,A
+2014,Internacional,Atletico-PR,2,1,H
+2014,Palmeiras,Goias,2,0,H
+2014,Botafogo RJ,Criciuma,6,0,H
+2014,Atletico-MG,Cruzeiro,2,1,H
+2014,Chapecoense-SC,Gremio,1,2,A
+2014,Fluminense,Flamengo RJ,2,0,H
+2014,Sao Paulo,Corinthians,1,1,D
+2014,Bahia,Vitoria,1,1,D
+2014,Coritiba,Sport Recife,0,1,A
+2014,Figueirense,Santos,0,2,A
+2014,Goias,Botafogo RJ,2,0,H
+2014,Cruzeiro,Coritiba,3,2,H
+2014,Atletico-PR,Chapecoense-SC,1,1,D
+2014,Corinthians,Figueirense,0,1,A
+2014,Flamengo RJ,Sao Paulo,0,2,A
+2014,Gremio,Fluminense,1,0,H
+2014,Criciuma,Internacional,0,0,D
+2014,Santos,Atletico-MG,1,2,A
+2014,Vitoria,Palmeiras,0,1,A
+2014,Coritiba,Internacional,1,1,D
+2014,Flamengo RJ,Bahia,1,1,D
+2014,Criciuma,Chapecoense-SC,1,0,H
+2014,Cruzeiro,Sport Recife,2,0,H
+2014,Corinthians,Atletico-PR,1,1,D
+2014,Fluminense,Sao Paulo,5,2,H
+2014,Gremio,Botafogo RJ,2,1,H
+2014,Goias,Santos,2,2,D
+2014,Palmeiras,Figueirense,1,0,H
+2014,Vitoria,Atletico-MG,2,3,A
+2014,Bahia,Fluminense,0,1,A
+2014,Sao Paulo,Gremio,1,0,H
+2014,Atletico-PR,Coritiba,2,0,H
+2014,Figueirense,Goias,0,1,A
+2014,Santos,Flamengo RJ,0,0,D
+2014,Sport Recife,Corinthians,1,4,A
+2014,Atletico-MG,Criciuma,0,0,D
+2014,Botafogo RJ,Vitoria,1,1,D
+2014,Chapecoense-SC,Palmeiras,2,0,H
+2014,Internacional,Cruzeiro,1,3,A
+2014,Criciuma,Coritiba,1,0,H
+2014,Palmeiras,Botafogo RJ,0,2,A
+2014,Sport Recife,Gremio,0,0,D
+2014,Goias,Vitoria,0,0,D
+2014,Internacional,Chapecoense-SC,2,0,H
+2014,Atletico-MG,Fluminense,2,0,H
+2014,Atletico-PR,Sao Paulo,2,2,D
+2014,Corinthians,Cruzeiro,1,0,H
+2014,Flamengo RJ,Figueirense,1,1,D
+2014,Bahia,Santos,0,2,A
+2014,Coritiba,Goias,3,0,H
+2014,Sao Paulo,Atletico-MG,2,1,H
+2014,Vitoria,Sport Recife,0,1,A
+2014,Chapecoense-SC,Bahia,2,1,H
+2014,Corinthians,Botafogo RJ,1,1,D
+2014,Cruzeiro,Flamengo RJ,3,0,H
+2014,Gremio,Palmeiras,0,0,D
+2014,Figueirense,Atletico-PR,1,3,A
+2014,Fluminense,Internacional,1,1,D
+2014,Santos,Criciuma,2,0,H
+2014,Sport Recife,Bahia,1,0,H
+2014,Coritiba,Figueirense,0,2,A
+2014,Gremio,Goias,0,0,D
+2014,Sport Recife,Botafogo RJ,1,0,H
+2014,Bahia,Sao Paulo,0,2,A
+2014,Criciuma,Fluminense,3,2,H
+2014,Flamengo RJ,Atletico-PR,1,2,A
+2014,Corinthians,Internacional,2,1,H
+2014,Santos,Palmeiras,2,0,H
+2014,Cruzeiro,Vitoria,3,1,H
+2014,Atletico-MG,Bahia,1,1,D
+2014,Figueirense,Gremio,0,1,A
+2014,Sao Paulo,Chapecoense-SC,0,1,A
+2014,Botafogo RJ,Coritiba,1,0,H
+2014,Internacional,Flamengo RJ,4,0,H
+2014,Palmeiras,Cruzeiro,1,2,A
+2014,Vitoria,Corinthians,0,0,D
+2014,Atletico-PR,Criciuma,2,0,H
+2014,Fluminense,Santos,1,0,H
+2014,Goias,Sport Recife,0,0,D
+2014,Criciuma,Vitoria,1,3,A
+2014,Cruzeiro,Figueirense,5,0,H
+2014,Santos,Chapecoense-SC,3,0,H
+2014,Bahia,Internacional,0,1,A
+2014,Atletico-PR,Fluminense,0,3,A
+2014,Corinthians,Palmeiras,2,0,H
+2014,Goias,Sao Paulo,2,1,H
+2014,Sport Recife,Atletico-MG,2,1,H
+2014,Flamengo RJ,Botafogo RJ,1,0,H
+2014,Gremio,Coritiba,2,3,A
+2014,Botafogo RJ,Cruzeiro,1,1,D
+2014,Sao Paulo,Criciuma,1,1,D
+2014,Vitoria,Gremio,2,1,H
+2014,Chapecoense-SC,Flamengo RJ,1,0,H
+2014,Coritiba,Corinthians,0,0,D
+2014,Figueirense,Sport Recife,3,0,H
+2014,Palmeiras,Bahia,1,1,D
+2014,Atletico-MG,Atletico-PR,3,1,H
+2014,Fluminense,Goias,2,0,H
+2014,Internacional,Santos,1,0,H
+2014,Chapecoense-SC,Atletico-MG,1,1,D
+2014,Bahia,Goias,1,0,H
+2014,Criciuma,Cruzeiro,0,0,D
+2014,Fluminense,Coritiba,1,1,D
+2014,Atletico-PR,Botafogo RJ,2,0,H
+2014,Flamengo RJ,Sport Recife,1,0,H
+2014,Internacional,Gremio,2,0,H
+2014,Santos,Corinthians,0,1,A
+2014,Atletico-MG,Palmeiras,2,1,H
+2014,Chapecoense-SC,Figueirense,0,1,A
+2014,Sao Paulo,Vitoria,3,1,H
+2014,Goias,Internacional,0,1,A
+2014,Corinthians,Bahia,1,1,D
+2014,Coritiba,Flamengo RJ,0,1,A
+2014,Cruzeiro,Santos,3,0,H
+2014,Gremio,Criciuma,2,0,H
+2014,Palmeiras,Sao Paulo,1,2,A
+2014,Vitoria,Chapecoense-SC,0,0,D
+2014,Botafogo RJ,Fluminense,2,0,H
+2014,Figueirense,Atletico-MG,2,2,D
+2014,Sport Recife,Atletico-PR,1,1,D
+2014,Figueirense,Botafogo RJ,1,0,H
+2014,Santos,Atletico-PR,2,0,H
+2014,Sport Recife,Palmeiras,2,1,H
+2014,Bahia,Criciuma,0,0,D
+2014,Coritiba,Vitoria,2,0,H
+2014,Chapecoense-SC,Fluminense,1,0,H
+2014,Flamengo RJ,Atletico-MG,2,1,H
+2014,Internacional,Sao Paulo,0,1,A
+2014,Corinthians,Goias,5,2,H
+2014,Cruzeiro,Gremio,1,0,H
+2014,Atletico-MG,Internacional,1,0,H
+2014,Botafogo RJ,Chapecoense-SC,1,0,H
+2014,Palmeiras,Coritiba,1,0,H
+2014,Criciuma,Flamengo RJ,0,2,A
+2014,Fluminense,Sport Recife,4,0,H
+2014,Gremio,Corinthians,2,1,H
+2014,Sao Paulo,Santos,2,1,H
+2014,Vitoria,Figueirense,0,1,A
+2014,Atletico-PR,Bahia,0,0,D
+2014,Goias,Cruzeiro,0,1,A
+2014,Cruzeiro,Chapecoense-SC,4,2,H
+2014,Palmeiras,Internacional,0,1,A
+2014,Botafogo RJ,Santos,1,0,H
+2014,Corinthians,Fluminense,1,1,D
+2014,Coritiba,Atletico-MG,0,0,D
+2014,Figueirense,Sao Paulo,1,1,D
+2014,Sport Recife,Criciuma,2,0,H
+2014,Goias,Atletico-PR,3,1,H
+2014,Gremio,Bahia,1,0,H
+2014,Vitoria,Flamengo RJ,1,2,A
+2014,Flamengo RJ,Gremio,0,1,A
+2014,Santos,Vitoria,3,1,H
+2014,Chapecoense-SC,Goias,0,0,D
+2014,Atletico-MG,Botafogo RJ,1,0,H
+2014,Criciuma,Corinthians,0,0,D
+2014,Fluminense,Cruzeiro,3,3,D
+2014,Sao Paulo,Sport Recife,2,0,H
+2014,Atletico-PR,Palmeiras,1,1,D
+2014,Bahia,Coritiba,0,0,D
+2014,Internacional,Figueirense,2,3,A
+2014,Figueirense,Fluminense,1,1,D
+2014,Gremio,Atletico-PR,1,0,H
+2014,Palmeiras,Criciuma,1,0,H
+2014,Coritiba,Chapecoense-SC,3,0,H
+2014,Sport Recife,Santos,3,1,H
+2014,Botafogo RJ,Sao Paulo,2,4,A
+2014,Goias,Flamengo RJ,1,0,H
+2014,Vitoria,Internacional,2,0,H
+2014,Corinthians,Atletico-MG,1,0,H
+2014,Cruzeiro,Bahia,2,1,H
+2014,Chapecoense-SC,Sport Recife,3,1,H
+2014,Fluminense,Palmeiras,3,0,H
+2014,Santos,Coritiba,2,1,H
+2014,Bahia,Figueirense,3,0,H
+2014,Flamengo RJ,Corinthians,1,0,H
+2014,Internacional,Botafogo RJ,2,0,H
+2014,Sao Paulo,Cruzeiro,2,0,H
+2014,Atletico-MG,Gremio,0,0,D
+2014,Atletico-PR,Vitoria,2,0,H
+2014,Criciuma,Goias,1,0,H
+2014,Cruzeiro,Atletico-PR,2,0,H
+2014,Vitoria,Fluminense,3,1,H
+2014,Figueirense,Criciuma,1,1,D
+2014,Sport Recife,Internacional,0,0,D
+2014,Botafogo RJ,Bahia,2,3,A
+2014,Coritiba,Sao Paulo,3,1,H
+2014,Palmeiras,Flamengo RJ,2,2,D
+2014,Corinthians,Chapecoense-SC,1,1,D
+2014,Goias,Atletico-MG,2,3,A
+2014,Gremio,Santos,0,0,D
+2014,Atletico-PR,Internacional,0,1,A
+2014,Criciuma,Botafogo RJ,1,1,D
+2014,Corinthians,Sao Paulo,3,2,H
+2014,Cruzeiro,Atletico-MG,2,3,A
+2014,Flamengo RJ,Fluminense,1,1,D
+2014,Sport Recife,Coritiba,1,0,H
+2014,Vitoria,Bahia,2,1,H
+2014,Goias,Palmeiras,6,0,H
+2014,Gremio,Chapecoense-SC,1,0,H
+2014,Santos,Figueirense,3,1,H
+2014,Coritiba,Cruzeiro,1,2,A
+2014,Internacional,Criciuma,3,0,H
+2014,Bahia,Sport Recife,1,0,H
+2014,Chapecoense-SC,Atletico-PR,3,0,H
+2014,Figueirense,Corinthians,1,0,H
+2014,Fluminense,Gremio,0,0,D
+2014,Sao Paulo,Flamengo RJ,2,2,D
+2014,Botafogo RJ,Goias,1,0,H
+2014,Palmeiras,Vitoria,2,0,H
+2014,Atletico-MG,Santos,3,2,H
+2014,Chapecoense-SC,Criciuma,1,1,D
+2014,Sport Recife,Cruzeiro,0,0,D
+2014,Sao Paulo,Fluminense,1,3,A
+2014,Atletico-MG,Vitoria,2,0,H
+2014,Atletico-PR,Corinthians,1,0,H
+2014,Bahia,Flamengo RJ,2,1,H
+2014,Botafogo RJ,Gremio,0,2,A
+2014,Figueirense,Palmeiras,3,1,H
+2014,Internacional,Coritiba,4,2,H
+2014,Santos,Goias,2,0,H
+2014,Palmeiras,Chapecoense-SC,4,2,H
+2014,Coritiba,Atletico-PR,1,0,H
+2014,Flamengo RJ,Santos,0,1,A
+2014,Fluminense,Bahia,1,1,D
+2014,Gremio,Sao Paulo,0,1,A
+2014,Vitoria,Botafogo RJ,2,1,H
+2014,Corinthians,Sport Recife,3,0,H
+2014,Criciuma,Atletico-MG,3,1,H
+2014,Cruzeiro,Internacional,2,1,H
+2014,Goias,Figueirense,1,0,H
+2014,Botafogo RJ,Palmeiras,0,1,A
+2014,Coritiba,Criciuma,1,0,H
+2014,Sao Paulo,Atletico-PR,1,0,H
+2014,Vitoria,Goias,2,2,D
+2014,Cruzeiro,Corinthians,0,1,A
+2014,Figueirense,Flamengo RJ,1,2,A
+2014,Gremio,Sport Recife,2,0,H
+2014,Fluminense,Atletico-MG,0,0,D
+2014,Santos,Bahia,1,0,H
+2014,Chapecoense-SC,Internacional,5,0,H
+2014,Botafogo RJ,Corinthians,1,0,H
+2014,Goias,Coritiba,3,0,H
+2014,Palmeiras,Gremio,2,1,H
+2014,Atletico-MG,Sao Paulo,1,0,H
+2014,Bahia,Chapecoense-SC,0,1,A
+2014,Flamengo RJ,Cruzeiro,3,0,H
+2014,Internacional,Fluminense,2,1,H
+2014,Atletico-PR,Figueirense,3,0,H
+2014,Criciuma,Santos,3,0,H
+2014,Sport Recife,Vitoria,1,2,A
+2014,Fluminense,Criciuma,4,2,H
+2014,Goias,Gremio,0,0,D
+2014,Sao Paulo,Bahia,2,1,H
+2014,Atletico-MG,Chapecoense-SC,1,0,H
+2014,Atletico-PR,Flamengo RJ,2,1,H
+2014,Figueirense,Coritiba,4,0,H
+2014,Internacional,Corinthians,1,2,A
+2014,Palmeiras,Santos,1,3,A
+2014,Botafogo RJ,Sport Recife,1,1,D
+2014,Vitoria,Cruzeiro,0,1,A
+2014,Bahia,Atletico-MG,1,1,D
+2014,Corinthians,Vitoria,2,1,H
+2014,Criciuma,Atletico-PR,0,1,A
+2014,Cruzeiro,Palmeiras,1,1,D
+2014,Flamengo RJ,Internacional,2,0,H
+2014,Coritiba,Botafogo RJ,2,0,H
+2014,Gremio,Figueirense,1,0,H
+2014,Chapecoense-SC,Sao Paulo,0,0,D
+2014,Santos,Fluminense,0,1,A
+2014,Sport Recife,Goias,0,1,A
+2014,Figueirense,Cruzeiro,1,1,D
+2014,Fluminense,Atletico-PR,2,1,H
+2014,Palmeiras,Corinthians,1,1,D
+2014,Atletico-MG,Sport Recife,3,2,H
+2014,Chapecoense-SC,Santos,1,1,D
+2014,Coritiba,Gremio,1,1,D
+2014,Vitoria,Criciuma,3,1,H
+2014,Botafogo RJ,Flamengo RJ,2,1,H
+2014,Internacional,Bahia,2,0,H
+2014,Sao Paulo,Goias,3,0,H
+2014,Goias,Fluminense,0,2,A
+2014,Gremio,Vitoria,1,0,H
+2014,Corinthians,Coritiba,2,2,D
+2014,Criciuma,Sao Paulo,1,2,A
+2014,Cruzeiro,Botafogo RJ,2,1,H
+2014,Santos,Internacional,1,2,A
+2014,Sport Recife,Figueirense,1,0,H
+2014,Atletico-PR,Atletico-MG,1,0,H
+2014,Flamengo RJ,Chapecoense-SC,3,0,H
+2014,Bahia,Palmeiras,0,1,A
+2014,Coritiba,Fluminense,1,0,H
+2014,Palmeiras,Atletico-MG,0,2,A
+2014,Botafogo RJ,Atletico-PR,0,2,A
+2014,Figueirense,Chapecoense-SC,1,0,H
+2014,Gremio,Internacional,4,1,H
+2014,Sport Recife,Flamengo RJ,2,2,D
+2014,Vitoria,Sao Paulo,1,2,A
+2014,Corinthians,Santos,1,0,H
+2014,Cruzeiro,Criciuma,3,1,H
+2014,Goias,Bahia,3,0,H
+2014,Sao Paulo,Internacional,1,1,D
+2014,Criciuma,Gremio,0,3,A
+2014,Fluminense,Botafogo RJ,1,0,H
+2014,Atletico-PR,Sport Recife,0,1,A
+2014,Bahia,Corinthians,1,2,A
+2014,Flamengo RJ,Coritiba,3,2,H
+2014,Internacional,Goias,1,0,H
+2014,Santos,Cruzeiro,0,1,A
+2014,Atletico-MG,Figueirense,1,1,D
+2014,Chapecoense-SC,Vitoria,0,1,A
+2014,Sao Paulo,Palmeiras,2,0,H
+2014,Atletico-PR,Santos,1,1,D
+2014,Botafogo RJ,Figueirense,0,1,A
+2014,Criciuma,Bahia,0,1,A
+2014,Goias,Corinthians,0,1,A
+2014,Vitoria,Coritiba,1,1,D
+2014,Atletico-MG,Flamengo RJ,4,0,H
+2014,Palmeiras,Sport Recife,0,2,A
+2014,Fluminense,Chapecoense-SC,1,4,A
+2014,Gremio,Cruzeiro,1,2,A
+2014,Internacional,Atletico-MG,2,1,H
+2014,Bahia,Atletico-PR,1,2,A
+2014,Cruzeiro,Goias,2,1,H
+2014,Figueirense,Vitoria,2,0,H
+2014,Flamengo RJ,Criciuma,1,1,D
+2014,Santos,Sao Paulo,0,1,A
+2014,Sport Recife,Fluminense,2,2,D
+2014,Chapecoense-SC,Botafogo RJ,2,0,H
+2014,Corinthians,Gremio,1,0,H
+2014,Coritiba,Palmeiras,2,0,H
+2014,Criciuma,Sport Recife,2,2,D
+2014,Internacional,Palmeiras,3,1,H
+2014,Flamengo RJ,Vitoria,4,0,H
+2014,Chapecoense-SC,Cruzeiro,1,1,D
+2014,Fluminense,Corinthians,5,2,H
+2014,Santos,Botafogo RJ,2,0,H
+2014,Sao Paulo,Figueirense,1,1,D
+2014,Atletico-MG,Coritiba,1,2,A
+2014,Atletico-PR,Goias,1,0,H
+2014,Bahia,Gremio,1,0,H
+2014,Corinthians,Criciuma,2,1,H
+2014,Figueirense,Internacional,1,2,A
+2014,Botafogo RJ,Atletico-MG,0,0,D
+2014,Coritiba,Bahia,3,2,H
+2014,Cruzeiro,Fluminense,2,1,H
+2014,Goias,Chapecoense-SC,4,2,H
+2014,Gremio,Flamengo RJ,1,1,D
+2014,Palmeiras,Atletico-PR,1,1,D
+2014,Sport Recife,Sao Paulo,1,0,H
+2014,Vitoria,Santos,0,1,A
+2015,Chapecoense-SC,Coritiba,2,1,H
+2015,Palmeiras,Atletico-MG,2,2,D
+2015,Fluminense,Joinville,1,0,H
+2015,Gremio,Ponte Preta,3,3,D
+2015,Atletico-PR,Internacional,3,0,H
+2015,Cruzeiro,Corinthians,0,1,A
+2015,Sao Paulo,Flamengo RJ,2,1,H
+2015,Sport Recife,Figueirense,4,1,H
+2015,Avai,Santos,1,1,D
+2015,Vasco,Goias,0,0,D
+2015,Coritiba,Gremio,2,0,H
+2015,Goias,Atletico-PR,2,0,H
+2015,Corinthians,Chapecoense-SC,1,0,H
+2015,Figueirense,Vasco,0,0,D
+2015,Atletico-MG,Fluminense,4,1,H
+2015,Flamengo RJ,Sport Recife,2,2,D
+2015,Santos,Cruzeiro,1,0,H
+2015,Internacional,Avai,1,0,H
+2015,Joinville,Palmeiras,0,0,D
+2015,Ponte Preta,Sao Paulo,1,0,H
+2015,Sao Paulo,Joinville,3,0,H
+2015,Vasco,Internacional,1,1,D
+2015,Gremio,Figueirense,1,0,H
+2015,Palmeiras,Goias,0,1,A
+2015,Atletico-PR,Atletico-MG,1,0,H
+2015,Avai,Flamengo RJ,2,1,H
+2015,Chapecoense-SC,Santos,1,0,H
+2015,Fluminense,Corinthians,0,0,D
+2015,Cruzeiro,Ponte Preta,1,1,D
+2015,Sport Recife,Coritiba,1,0,H
+2015,Coritiba,Avai,1,2,A
+2015,Ponte Preta,Chapecoense-SC,3,1,H
+2015,Joinville,Atletico-PR,1,2,A
+2015,Santos,Sport Recife,2,2,D
+2015,Atletico-MG,Vasco,3,0,H
+2015,Corinthians,Palmeiras,0,2,A
+2015,Goias,Gremio,1,1,D
+2015,Internacional,Sao Paulo,0,0,D
+2015,Figueirense,Cruzeiro,2,1,H
+2015,Flamengo RJ,Fluminense,2,3,A
+2015,Atletico-PR,Figueirense,1,0,H
+2015,Chapecoense-SC,Joinville,2,0,H
+2015,Vasco,Ponte Preta,0,3,A
+2015,Sao Paulo,Santos,3,2,H
+2015,Avai,Atletico-MG,1,4,A
+2015,Cruzeiro,Flamengo RJ,1,0,H
+2015,Gremio,Corinthians,3,1,H
+2015,Fluminense,Coritiba,2,0,H
+2015,Palmeiras,Internacional,1,1,D
+2015,Sport Recife,Goias,1,0,H
+2015,Atletico-MG,Cruzeiro,1,3,A
+2015,Flamengo RJ,Chapecoense-SC,1,0,H
+2015,Santos,Ponte Preta,2,2,D
+2015,Atletico-PR,Vasco,2,0,H
+2015,Joinville,Corinthians,0,1,A
+2015,Sao Paulo,Gremio,2,0,H
+2015,Internacional,Coritiba,2,0,H
+2015,Figueirense,Palmeiras,2,1,H
+2015,Fluminense,Sport Recife,0,0,D
+2015,Goias,Avai,0,1,A
+2015,Atletico-MG,Santos,2,2,D
+2015,Chapecoense-SC,Sao Paulo,0,1,A
+2015,Corinthians,Internacional,2,1,H
+2015,Coritiba,Flamengo RJ,0,1,A
+2015,Sport Recife,Joinville,2,1,H
+2015,Vasco,Cruzeiro,1,3,A
+2015,Ponte Preta,Goias,0,0,D
+2015,Avai,Figueirense,1,1,D
+2015,Gremio,Atletico-PR,2,1,H
+2015,Palmeiras,Fluminense,2,1,H
+2015,Figueirense,Internacional,0,0,D
+2015,Flamengo RJ,Atletico-MG,0,2,A
+2015,Santos,Corinthians,1,0,H
+2015,Sport Recife,Vasco,2,1,H
+2015,Gremio,Palmeiras,1,0,H
+2015,Cruzeiro,Chapecoense-SC,0,1,A
+2015,Atletico-PR,Coritiba,2,2,D
+2015,Joinville,Goias,2,1,H
+2015,Sao Paulo,Avai,1,1,D
+2015,Fluminense,Ponte Preta,2,0,H
+2015,Avai,Gremio,1,2,A
+2015,Chapecoense-SC,Sport Recife,1,1,D
+2015,Corinthians,Figueirense,2,1,H
+2015,Atletico-MG,Joinville,1,0,H
+2015,Coritiba,Cruzeiro,1,0,H
+2015,Goias,Fluminense,1,2,A
+2015,Palmeiras,Sao Paulo,4,0,H
+2015,Ponte Preta,Atletico-PR,2,1,H
+2015,Internacional,Santos,1,0,H
+2015,Vasco,Flamengo RJ,1,0,H
+2015,Sport Recife,Internacional,3,0,H
+2015,Vasco,Avai,1,0,H
+2015,Atletico-MG,Coritiba,2,0,H
+2015,Palmeiras,Chapecoense-SC,2,0,H
+2015,Atletico-PR,Sao Paulo,2,1,H
+2015,Gremio,Cruzeiro,1,0,H
+2015,Joinville,Flamengo RJ,0,1,A
+2015,Corinthians,Ponte Preta,2,0,H
+2015,Figueirense,Goias,3,1,H
+2015,Fluminense,Santos,2,1,H
+2015,Coritiba,Joinville,0,0,D
+2015,Chapecoense-SC,Vasco,1,0,H
+2015,Cruzeiro,Atletico-PR,2,0,H
+2015,Avai,Sport Recife,2,2,D
+2015,Goias,Corinthians,0,0,D
+2015,Santos,Gremio,1,3,A
+2015,Sao Paulo,Fluminense,0,0,D
+2015,Flamengo RJ,Figueirense,1,2,A
+2015,Internacional,Atletico-MG,1,3,A
+2015,Ponte Preta,Palmeiras,0,2,A
+2015,Chapecoense-SC,Gremio,1,0,H
+2015,Coritiba,Ponte Preta,0,0,D
+2015,Goias,Santos,4,1,H
+2015,Figueirense,Joinville,0,2,A
+2015,Palmeiras,Avai,3,0,H
+2015,Atletico-MG,Sport Recife,2,1,H
+2015,Internacional,Flamengo RJ,1,2,A
+2015,Vasco,Sao Paulo,0,4,A
+2015,Corinthians,Atletico-PR,2,0,H
+2015,Fluminense,Cruzeiro,1,0,H
+2015,Gremio,Vasco,2,0,H
+2015,Santos,Figueirense,3,0,H
+2015,Ponte Preta,Atletico-MG,0,2,A
+2015,Sao Paulo,Coritiba,3,1,H
+2015,Atletico-PR,Fluminense,1,2,A
+2015,Cruzeiro,Goias,1,0,H
+2015,Flamengo RJ,Corinthians,0,3,A
+2015,Joinville,Internacional,0,2,A
+2015,Avai,Chapecoense-SC,2,1,H
+2015,Sport Recife,Palmeiras,2,2,D
+2015,Flamengo RJ,Gremio,1,0,H
+2015,Internacional,Goias,2,1,H
+2015,Corinthians,Atletico-MG,1,0,H
+2015,Atletico-PR,Chapecoense-SC,1,0,H
+2015,Figueirense,Coritiba,0,0,D
+2015,Fluminense,Vasco,1,2,A
+2015,Palmeiras,Santos,1,0,H
+2015,Sport Recife,Sao Paulo,2,0,H
+2015,Cruzeiro,Avai,1,1,D
+2015,Joinville,Ponte Preta,1,1,D
+2015,Avai,Atletico-PR,1,2,A
+2015,Gremio,Sport Recife,1,1,D
+2015,Atletico-MG,Figueirense,1,0,H
+2015,Chapecoense-SC,Fluminense,2,1,H
+2015,Santos,Joinville,2,0,H
+2015,Coritiba,Corinthians,1,1,D
+2015,Goias,Flamengo RJ,0,1,A
+2015,Ponte Preta,Internacional,0,0,D
+2015,Sao Paulo,Cruzeiro,1,0,H
+2015,Vasco,Palmeiras,1,4,A
+2015,Atletico-MG,Sao Paulo,3,1,H
+2015,Corinthians,Vasco,3,0,H
+2015,Fluminense,Gremio,1,0,H
+2015,Coritiba,Goias,1,1,D
+2015,Palmeiras,Atletico-PR,0,1,A
+2015,Figueirense,Ponte Preta,3,1,H
+2015,Flamengo RJ,Santos,2,2,D
+2015,Internacional,Chapecoense-SC,0,0,D
+2015,Joinville,Avai,2,0,H
+2015,Sport Recife,Cruzeiro,0,0,D
+2015,Avai,Fluminense,1,0,H
+2015,Santos,Coritiba,3,0,H
+2015,Atletico-PR,Sport Recife,1,1,D
+2015,Vasco,Joinville,0,0,D
+2015,Cruzeiro,Palmeiras,2,1,H
+2015,Goias,Atletico-MG,0,0,D
+2015,Ponte Preta,Flamengo RJ,1,0,H
+2015,Sao Paulo,Corinthians,1,1,D
+2015,Chapecoense-SC,Figueirense,2,2,D
+2015,Gremio,Internacional,5,0,H
+2015,Coritiba,Palmeiras,2,1,H
+2015,Flamengo RJ,Atletico-PR,3,2,H
+2015,Goias,Chapecoense-SC,0,0,D
+2015,Santos,Vasco,1,0,H
+2015,Corinthians,Sport Recife,4,3,H
+2015,Figueirense,Sao Paulo,0,2,A
+2015,Internacional,Fluminense,1,0,H
+2015,Ponte Preta,Avai,2,0,H
+2015,Atletico-MG,Gremio,0,2,A
+2015,Joinville,Cruzeiro,3,0,H
+2015,Atletico-PR,Santos,0,0,D
+2015,Vasco,Coritiba,0,1,A
+2015,Sao Paulo,Goias,0,3,A
+2015,Palmeiras,Flamengo RJ,4,2,H
+2015,Avai,Corinthians,1,2,A
+2015,Cruzeiro,Internacional,0,0,D
+2015,Fluminense,Figueirense,2,1,H
+2015,Sport Recife,Ponte Preta,1,1,D
+2015,Chapecoense-SC,Atletico-MG,2,1,H
+2015,Gremio,Joinville,2,1,H
+2015,Goias,Vasco,3,0,H
+2015,Santos,Avai,5,2,H
+2015,Figueirense,Sport Recife,2,1,H
+2015,Coritiba,Chapecoense-SC,1,0,H
+2015,Ponte Preta,Gremio,0,0,D
+2015,Corinthians,Cruzeiro,3,0,H
+2015,Flamengo RJ,Sao Paulo,2,1,H
+2015,Internacional,Atletico-PR,2,0,H
+2015,Joinville,Fluminense,2,1,H
+2015,Atletico-MG,Palmeiras,2,1,H
+2015,Vasco,Figueirense,0,1,A
+2015,Sao Paulo,Ponte Preta,3,0,H
+2015,Avai,Internacional,3,0,H
+2015,Gremio,Coritiba,0,0,D
+2015,Chapecoense-SC,Corinthians,1,3,A
+2015,Fluminense,Atletico-MG,1,2,A
+2015,Palmeiras,Joinville,3,2,H
+2015,Sport Recife,Flamengo RJ,0,1,A
+2015,Atletico-PR,Goias,3,0,H
+2015,Cruzeiro,Santos,0,1,A
+2015,Internacional,Vasco,6,0,H
+2015,Joinville,Sao Paulo,0,0,D
+2015,Ponte Preta,Cruzeiro,1,2,A
+2015,Atletico-MG,Atletico-PR,0,1,A
+2015,Flamengo RJ,Avai,3,0,H
+2015,Corinthians,Fluminense,2,0,H
+2015,Coritiba,Sport Recife,0,0,D
+2015,Goias,Palmeiras,1,0,H
+2015,Santos,Chapecoense-SC,3,1,H
+2015,Figueirense,Gremio,0,2,A
+2015,Sao Paulo,Internacional,2,0,H
+2015,Vasco,Atletico-MG,1,2,A
+2015,Atletico-PR,Joinville,0,0,D
+2015,Chapecoense-SC,Ponte Preta,0,0,D
+2015,Cruzeiro,Figueirense,5,1,H
+2015,Avai,Coritiba,0,2,A
+2015,Fluminense,Flamengo RJ,1,3,A
+2015,Gremio,Goias,2,1,H
+2015,Palmeiras,Corinthians,3,3,D
+2015,Sport Recife,Santos,1,1,D
+2015,Atletico-MG,Avai,2,0,H
+2015,Internacional,Palmeiras,1,0,H
+2015,Ponte Preta,Vasco,0,1,A
+2015,Figueirense,Atletico-PR,1,1,D
+2015,Corinthians,Gremio,1,1,D
+2015,Coritiba,Fluminense,1,1,D
+2015,Santos,Sao Paulo,3,0,H
+2015,Goias,Sport Recife,1,0,H
+2015,Flamengo RJ,Cruzeiro,2,0,H
+2015,Joinville,Chapecoense-SC,0,0,D
+2015,Coritiba,Internacional,0,1,A
+2015,Palmeiras,Figueirense,2,0,H
+2015,Corinthians,Joinville,3,0,H
+2015,Ponte Preta,Santos,3,1,H
+2015,Chapecoense-SC,Flamengo RJ,1,3,A
+2015,Cruzeiro,Atletico-MG,1,1,D
+2015,Gremio,Sao Paulo,1,2,A
+2015,Vasco,Atletico-PR,2,0,H
+2015,Avai,Goias,2,1,H
+2015,Sport Recife,Fluminense,1,0,H
+2015,Fluminense,Palmeiras,1,4,A
+2015,Goias,Ponte Preta,1,2,A
+2015,Joinville,Sport Recife,1,1,D
+2015,Atletico-PR,Gremio,1,2,A
+2015,Figueirense,Avai,0,1,A
+2015,Cruzeiro,Vasco,2,2,D
+2015,Internacional,Corinthians,2,1,H
+2015,Santos,Atletico-MG,4,0,H
+2015,Sao Paulo,Chapecoense-SC,0,0,D
+2015,Flamengo RJ,Coritiba,0,2,A
+2015,Internacional,Figueirense,1,1,D
+2015,Palmeiras,Gremio,3,2,H
+2015,Ponte Preta,Fluminense,3,1,H
+2015,Corinthians,Santos,2,0,H
+2015,Goias,Joinville,3,0,H
+2015,Atletico-MG,Flamengo RJ,4,1,H
+2015,Avai,Sao Paulo,2,1,H
+2015,Vasco,Sport Recife,2,1,H
+2015,Chapecoense-SC,Cruzeiro,0,2,A
+2015,Coritiba,Atletico-PR,2,0,H
+2015,Fluminense,Goias,2,0,H
+2015,Gremio,Avai,3,1,H
+2015,Atletico-PR,Ponte Preta,1,2,A
+2015,Santos,Internacional,3,1,H
+2015,Figueirense,Corinthians,1,3,A
+2015,Flamengo RJ,Vasco,1,2,A
+2015,Joinville,Atletico-MG,2,2,D
+2015,Sao Paulo,Palmeiras,1,1,D
+2015,Cruzeiro,Coritiba,2,0,H
+2015,Sport Recife,Chapecoense-SC,3,0,H
+2015,Coritiba,Atletico-MG,0,3,A
+2015,Internacional,Sport Recife,2,1,H
+2015,Sao Paulo,Atletico-PR,1,0,H
+2015,Avai,Vasco,1,1,D
+2015,Flamengo RJ,Joinville,2,0,H
+2015,Cruzeiro,Gremio,0,0,D
+2015,Goias,Figueirense,2,3,A
+2015,Ponte Preta,Corinthians,2,2,D
+2015,Santos,Fluminense,3,1,H
+2015,Chapecoense-SC,Palmeiras,5,1,H
+2015,Atletico-MG,Internacional,2,1,H
+2015,Sport Recife,Avai,3,0,H
+2015,Figueirense,Flamengo RJ,3,0,H
+2015,Joinville,Coritiba,3,1,H
+2015,Palmeiras,Ponte Preta,0,1,A
+2015,Atletico-PR,Cruzeiro,2,2,D
+2015,Fluminense,Sao Paulo,2,0,H
+2015,Corinthians,Goias,3,0,H
+2015,Vasco,Chapecoense-SC,1,1,D
+2015,Gremio,Santos,1,0,H
+2015,Avai,Palmeiras,1,3,A
+2015,Joinville,Figueirense,1,0,H
+2015,Cruzeiro,Fluminense,2,0,H
+2015,Ponte Preta,Coritiba,3,0,H
+2015,Atletico-PR,Corinthians,1,4,A
+2015,Flamengo RJ,Internacional,0,1,A
+2015,Sao Paulo,Vasco,2,2,D
+2015,Gremio,Chapecoense-SC,2,3,A
+2015,Santos,Goias,3,1,H
+2015,Sport Recife,Atletico-MG,4,1,H
+2015,Fluminense,Atletico-PR,0,1,A
+2015,Figueirense,Santos,0,0,D
+2015,Internacional,Joinville,1,0,H
+2015,Palmeiras,Sport Recife,0,2,A
+2015,Chapecoense-SC,Avai,0,0,D
+2015,Corinthians,Flamengo RJ,1,0,H
+2015,Coritiba,Sao Paulo,1,2,A
+2015,Vasco,Gremio,0,0,D
+2015,Goias,Cruzeiro,0,1,A
+2015,Atletico-MG,Ponte Preta,2,1,H
+2015,Sao Paulo,Sport Recife,3,0,H
+2015,Avai,Cruzeiro,1,1,D
+2015,Ponte Preta,Joinville,1,0,H
+2015,Coritiba,Figueirense,1,1,D
+2015,Atletico-MG,Corinthians,0,3,A
+2015,Chapecoense-SC,Atletico-PR,0,0,D
+2015,Gremio,Flamengo RJ,2,0,H
+2015,Santos,Palmeiras,2,1,H
+2015,Vasco,Fluminense,0,1,A
+2015,Goias,Internacional,2,1,H
+2015,Internacional,Ponte Preta,1,0,H
+2015,Atletico-PR,Avai,2,1,H
+2015,Corinthians,Coritiba,2,1,H
+2015,Fluminense,Chapecoense-SC,2,3,A
+2015,Cruzeiro,Sao Paulo,2,1,H
+2015,Figueirense,Atletico-MG,0,1,A
+2015,Flamengo RJ,Goias,4,1,H
+2015,Palmeiras,Vasco,0,2,A
+2015,Joinville,Santos,0,0,D
+2015,Sport Recife,Gremio,1,0,H
+2015,Cruzeiro,Sport Recife,3,0,H
+2015,Goias,Coritiba,1,3,A
+2015,Atletico-PR,Palmeiras,3,3,D
+2015,Avai,Joinville,2,1,H
+2015,Ponte Preta,Figueirense,0,1,A
+2015,Chapecoense-SC,Internacional,1,0,H
+2015,Gremio,Fluminense,1,0,H
+2015,Santos,Flamengo RJ,0,0,D
+2015,Sao Paulo,Atletico-MG,4,2,H
+2015,Vasco,Corinthians,1,1,D
+2015,Palmeiras,Cruzeiro,1,1,D
+2015,Atletico-MG,Goias,2,2,D
+2015,Corinthians,Sao Paulo,6,1,H
+2015,Figueirense,Chapecoense-SC,0,0,D
+2015,Internacional,Gremio,1,0,H
+2015,Joinville,Vasco,1,2,A
+2015,Flamengo RJ,Ponte Preta,1,1,D
+2015,Coritiba,Santos,1,0,H
+2015,Fluminense,Avai,3,1,H
+2015,Sport Recife,Atletico-PR,0,0,D
+2015,Sao Paulo,Figueirense,3,2,H
+2015,Fluminense,Internacional,1,1,D
+2015,Avai,Ponte Preta,1,0,H
+2015,Cruzeiro,Joinville,3,0,H
+2015,Gremio,Atletico-MG,2,1,H
+2015,Sport Recife,Corinthians,2,0,H
+2015,Chapecoense-SC,Goias,1,3,A
+2015,Palmeiras,Coritiba,0,2,A
+2015,Vasco,Santos,1,0,H
+2015,Atletico-PR,Flamengo RJ,3,0,H
+2015,Atletico-MG,Chapecoense-SC,3,0,H
+2015,Corinthians,Avai,1,1,D
+2015,Coritiba,Vasco,0,0,D
+2015,Figueirense,Fluminense,1,0,H
+2015,Flamengo RJ,Palmeiras,1,2,A
+2015,Goias,Sao Paulo,0,1,A
+2015,Internacional,Cruzeiro,2,0,H
+2015,Joinville,Gremio,0,2,A
+2015,Ponte Preta,Sport Recife,0,1,A
+2015,Santos,Atletico-PR,5,1,H
+2016,Flamengo RJ,Sport Recife,1,0,H
+2016,Palmeiras,Atletico-PR,4,0,H
+2016,Atletico-MG,Santos,1,0,H
+2016,Coritiba,Cruzeiro,1,0,H
+2016,Botafogo RJ,Sao Paulo,0,1,A
+2016,Santa Cruz,Vitoria,4,1,H
+2016,America MG,Fluminense,0,1,A
+2016,Corinthians,Gremio,0,0,D
+2016,Figueirense,Ponte Preta,0,0,D
+2016,Internacional,Chapecoense-SC,0,0,D
+2016,Ponte Preta,Palmeiras,2,1,H
+2016,Fluminense,Santa Cruz,2,2,D
+2016,Cruzeiro,Figueirense,2,2,D
+2016,Atletico-PR,Atletico-MG,1,1,D
+2016,Santos,Coritiba,2,1,H
+2016,Chapecoense-SC,America MG,3,1,H
+2016,Gremio,Flamengo RJ,1,0,H
+2016,Sao Paulo,Internacional,1,2,A
+2016,Vitoria,Corinthians,3,2,H
+2016,Sport Recife,Botafogo RJ,1,1,D
+2016,Botafogo RJ,Atletico-PR,2,1,H
+2016,Figueirense,Santos,2,2,D
+2016,America MG,Vitoria,1,1,D
+2016,Flamengo RJ,Chapecoense-SC,2,2,D
+2016,Coritiba,Sao Paulo,1,1,D
+2016,Palmeiras,Fluminense,2,0,H
+2016,Santa Cruz,Cruzeiro,4,1,H
+2016,Corinthians,Ponte Preta,3,0,H
+2016,Internacional,Sport Recife,1,0,H
+2016,Atletico-MG,Gremio,0,3,A
+2016,Cruzeiro,America MG,1,1,D
+2016,Atletico-PR,Figueirense,2,1,H
+2016,Chapecoense-SC,Santa Cruz,1,1,D
+2016,Ponte Preta,Flamengo RJ,1,2,A
+2016,Sport Recife,Corinthians,0,2,A
+2016,Fluminense,Botafogo RJ,1,0,H
+2016,Sao Paulo,Palmeiras,1,0,H
+2016,Vitoria,Atletico-MG,1,1,D
+2016,Gremio,Coritiba,2,0,H
+2016,Santos,Internacional,0,1,A
+2016,Internacional,Atletico-PR,1,0,H
+2016,Corinthians,Santos,1,0,H
+2016,Coritiba,Chapecoense-SC,3,4,A
+2016,Santa Cruz,Sport Recife,0,1,A
+2016,Atletico-MG,Fluminense,1,1,D
+2016,Botafogo RJ,Cruzeiro,0,1,A
+2016,Figueirense,Sao Paulo,1,0,H
+2016,America MG,Ponte Preta,1,2,A
+2016,Flamengo RJ,Vitoria,1,0,H
+2016,Palmeiras,Gremio,4,3,H
+2016,Atletico-PR,Santa Cruz,1,0,H
+2016,Chapecoense-SC,Fluminense,0,0,D
+2016,Corinthians,Coritiba,2,1,H
+2016,America MG,Figueirense,1,0,H
+2016,Santos,Botafogo RJ,3,0,H
+2016,Flamengo RJ,Palmeiras,1,2,A
+2016,Gremio,Ponte Preta,1,0,H
+2016,Sport Recife,Atletico-MG,4,4,D
+2016,Vitoria,Internacional,1,0,H
+2016,Cruzeiro,Sao Paulo,0,1,A
+2016,Internacional,America MG,3,1,H
+2016,Ponte Preta,Chapecoense-SC,2,1,H
+2016,Fluminense,Gremio,1,1,D
+2016,Sao Paulo,Atletico-PR,1,2,A
+2016,Botafogo RJ,Vitoria,1,1,D
+2016,Coritiba,Sport Recife,3,2,H
+2016,Atletico-MG,Cruzeiro,2,3,A
+2016,Figueirense,Flamengo RJ,1,0,H
+2016,Palmeiras,Corinthians,1,0,H
+2016,Santa Cruz,Santos,0,2,A
+2016,Chapecoense-SC,Gremio,3,3,D
+2016,Ponte Preta,Atletico-PR,3,2,H
+2016,Sao Paulo,Vitoria,2,0,H
+2016,Botafogo RJ,America MG,3,1,H
+2016,Santa Cruz,Figueirense,1,0,H
+2016,Santos,Sport Recife,2,0,H
+2016,Coritiba,Palmeiras,2,2,D
+2016,Cruzeiro,Flamengo RJ,0,1,A
+2016,Internacional,Atletico-MG,2,0,H
+2016,Fluminense,Corinthians,1,0,H
+2016,Palmeiras,Santa Cruz,3,1,H
+2016,Atletico-PR,Santos,1,0,H
+2016,America MG,Coritiba,2,1,H
+2016,Atletico-MG,Ponte Preta,3,0,H
+2016,Vitoria,Chapecoense-SC,1,2,A
+2016,Corinthians,Botafogo RJ,3,1,H
+2016,Figueirense,Internacional,3,2,H
+2016,Flamengo RJ,Sao Paulo,2,2,D
+2016,Sport Recife,Fluminense,2,1,H
+2016,Gremio,Cruzeiro,2,0,H
+2016,Palmeiras,America MG,2,0,H
+2016,Ponte Preta,Cruzeiro,0,4,A
+2016,Botafogo RJ,Figueirense,0,0,D
+2016,Santa Cruz,Flamengo RJ,0,1,A
+2016,Atletico-MG,Corinthians,2,1,H
+2016,Fluminense,Santos,2,4,A
+2016,Chapecoense-SC,Atletico-PR,0,0,D
+2016,Gremio,Vitoria,1,2,A
+2016,Sao Paulo,Sport Recife,0,0,D
+2016,Coritiba,Internacional,1,1,D
+2016,Cruzeiro,Palmeiras,2,1,H
+2016,Corinthians,Santa Cruz,2,1,H
+2016,America MG,Atletico-MG,0,1,A
+2016,Atletico-PR,Gremio,2,0,H
+2016,Flamengo RJ,Fluminense,1,2,A
+2016,Internacional,Botafogo RJ,2,3,A
+2016,Santos,Sao Paulo,3,0,H
+2016,Vitoria,Ponte Preta,1,1,D
+2016,Figueirense,Coritiba,0,0,D
+2016,Sport Recife,Chapecoense-SC,5,1,H
+2016,Flamengo RJ,Internacional,1,0,H
+2016,Gremio,Santos,3,2,H
+2016,Vitoria,Sport Recife,3,2,H
+2016,Chapecoense-SC,Cruzeiro,3,2,H
+2016,Coritiba,Atletico-PR,1,0,H
+2016,America MG,Corinthians,0,2,A
+2016,Sao Paulo,Fluminense,2,1,H
+2016,Palmeiras,Figueirense,4,0,H
+2016,Santa Cruz,Ponte Preta,0,3,A
+2016,Atletico-MG,Botafogo RJ,5,3,H
+2016,Fluminense,Coritiba,0,0,D
+2016,Atletico-PR,America MG,1,0,H
+2016,Cruzeiro,Vitoria,2,2,D
+2016,Internacional,Gremio,0,1,A
+2016,Botafogo RJ,Santa Cruz,2,1,H
+2016,Corinthians,Flamengo RJ,4,0,H
+2016,Ponte Preta,Sao Paulo,1,0,H
+2016,Santos,Chapecoense-SC,3,0,H
+2016,Figueirense,Atletico-MG,1,1,D
+2016,Sport Recife,Palmeiras,1,3,A
+2016,Chapecoense-SC,Corinthians,0,2,A
+2016,Coritiba,Botafogo RJ,0,0,D
+2016,Ponte Preta,Sport Recife,2,1,H
+2016,Flamengo RJ,Atletico-MG,2,0,H
+2016,Gremio,Figueirense,2,1,H
+2016,Santa Cruz,Internacional,1,0,H
+2016,Sao Paulo,America MG,3,0,H
+2016,Vitoria,Fluminense,0,0,D
+2016,Cruzeiro,Atletico-PR,0,3,A
+2016,Palmeiras,Santos,1,1,D
+2016,Botafogo RJ,Flamengo RJ,3,3,D
+2016,Santos,Ponte Preta,3,1,H
+2016,America MG,Santa Cruz,0,3,A
+2016,Atletico-PR,Vitoria,1,1,D
+2016,Corinthians,Sao Paulo,1,1,D
+2016,Figueirense,Chapecoense-SC,1,1,D
+2016,Fluminense,Cruzeiro,2,0,H
+2016,Internacional,Palmeiras,0,1,A
+2016,Sport Recife,Gremio,4,2,H
+2016,Atletico-MG,Coritiba,2,1,H
+2016,Corinthians,Figueirense,1,1,D
+2016,Santa Cruz,Coritiba,0,1,A
+2016,Palmeiras,Atletico-MG,0,1,A
+2016,Ponte Preta,Internacional,2,2,D
+2016,Atletico-PR,Fluminense,1,0,H
+2016,Chapecoense-SC,Botafogo RJ,2,1,H
+2016,Cruzeiro,Sport Recife,1,2,A
+2016,Gremio,Sao Paulo,1,0,H
+2016,Vitoria,Santos,2,3,A
+2016,Flamengo RJ,America MG,2,1,H
+2016,Figueirense,Vitoria,1,0,H
+2016,Sport Recife,Atletico-PR,2,0,H
+2016,Atletico-MG,Santa Cruz,3,0,H
+2016,Fluminense,Ponte Preta,3,0,H
+2016,Sao Paulo,Chapecoense-SC,2,2,D
+2016,Coritiba,Flamengo RJ,0,2,A
+2016,Internacional,Corinthians,0,1,A
+2016,Santos,Cruzeiro,2,0,H
+2016,America MG,Gremio,0,0,D
+2016,Botafogo RJ,Palmeiras,3,1,H
+2016,Sport Recife,America MG,1,1,D
+2016,Vitoria,Coritiba,3,1,H
+2016,Atletico-PR,Corinthians,2,0,H
+2016,Santos,Flamengo RJ,0,0,D
+2016,Ponte Preta,Botafogo RJ,2,0,H
+2016,Gremio,Santa Cruz,0,0,D
+2016,Sao Paulo,Atletico-MG,1,2,A
+2016,Cruzeiro,Internacional,4,2,H
+2016,Chapecoense-SC,Palmeiras,1,1,D
+2016,Flamengo RJ,Atletico-PR,1,0,H
+2016,America MG,Santos,1,0,H
+2016,Coritiba,Ponte Preta,3,1,H
+2016,Palmeiras,Vitoria,2,1,H
+2016,Internacional,Fluminense,2,2,D
+2016,Santa Cruz,Sao Paulo,1,2,A
+2016,Figueirense,Sport Recife,1,1,D
+2016,Atletico-MG,Chapecoense-SC,3,1,H
+2016,Corinthians,Cruzeiro,1,1,D
+2016,Sport Recife,Flamengo RJ,1,0,H
+2016,Ponte Preta,Figueirense,2,0,H
+2016,Fluminense,America MG,1,0,H
+2016,Gremio,Corinthians,3,0,H
+2016,Cruzeiro,Coritiba,2,2,D
+2016,Santos,Atletico-MG,3,0,H
+2016,Vitoria,Santa Cruz,2,2,D
+2016,Sao Paulo,Botafogo RJ,0,1,A
+2016,Atletico-PR,Palmeiras,0,1,A
+2016,Chapecoense-SC,Internacional,1,0,H
+2016,America MG,Chapecoense-SC,1,2,A
+2016,Botafogo RJ,Sport Recife,3,0,H
+2016,Atletico-MG,Atletico-PR,1,0,H
+2016,Flamengo RJ,Gremio,2,1,H
+2016,Internacional,Sao Paulo,1,1,D
+2016,Palmeiras,Ponte Preta,2,2,D
+2016,Santa Cruz,Fluminense,0,1,A
+2016,Coritiba,Santos,2,1,H
+2016,Figueirense,Cruzeiro,1,2,A
+2016,Corinthians,Vitoria,2,1,H
+2016,Ponte Preta,Corinthians,2,0,H
+2016,Cruzeiro,Santa Cruz,2,0,H
+2016,Santos,Figueirense,0,1,A
+2016,Chapecoense-SC,Flamengo RJ,1,3,A
+2016,Fluminense,Palmeiras,0,2,A
+2016,Gremio,Atletico-MG,1,1,D
+2016,Sao Paulo,Coritiba,0,0,D
+2016,Sport Recife,Internacional,1,1,D
+2016,Vitoria,America MG,2,1,H
+2016,Atletico-PR,Botafogo RJ,1,0,H
+2016,Fluminense,Figueirense,3,2,H
+2016,Botafogo RJ,Gremio,2,1,H
+2016,Botafogo RJ,Fluminense,1,0,H
+2016,Figueirense,Atletico-PR,1,0,H
+2016,Santa Cruz,Chapecoense-SC,2,2,D
+2016,Atletico-MG,Vitoria,2,1,H
+2016,Coritiba,Gremio,4,0,H
+2016,Flamengo RJ,Ponte Preta,2,1,H
+2016,Palmeiras,Sao Paulo,2,1,H
+2016,Corinthians,Sport Recife,3,0,H
+2016,America MG,Cruzeiro,0,2,A
+2016,Internacional,Santos,2,1,H
+2016,Vitoria,Flamengo RJ,1,2,A
+2016,Chapecoense-SC,Coritiba,1,0,H
+2016,Sao Paulo,Figueirense,3,1,H
+2016,Atletico-PR,Internacional,2,1,H
+2016,Cruzeiro,Botafogo RJ,0,2,A
+2016,Santos,Corinthians,2,1,H
+2016,Sport Recife,Santa Cruz,5,3,H
+2016,Gremio,Palmeiras,0,0,D
+2016,Ponte Preta,America MG,1,1,D
+2016,Fluminense,Atletico-MG,4,2,H
+2016,Botafogo RJ,Santos,0,1,A
+2016,Figueirense,America MG,2,2,D
+2016,Ponte Preta,Gremio,3,0,H
+2016,Santa Cruz,Atletico-PR,1,0,H
+2016,Coritiba,Corinthians,1,1,D
+2016,Palmeiras,Flamengo RJ,1,1,D
+2016,Atletico-MG,Sport Recife,1,0,H
+2016,Fluminense,Chapecoense-SC,1,2,A
+2016,Internacional,Vitoria,0,1,A
+2016,Sao Paulo,Cruzeiro,1,0,H
+2016,Corinthians,Palmeiras,0,2,A
+2016,Flamengo RJ,Figueirense,2,0,H
+2016,Atletico-PR,Sao Paulo,1,0,H
+2016,Chapecoense-SC,Ponte Preta,2,2,D
+2016,Cruzeiro,Atletico-MG,1,1,D
+2016,Gremio,Fluminense,0,1,A
+2016,Sport Recife,Coritiba,0,1,A
+2016,Santos,Santa Cruz,3,2,H
+2016,Vitoria,Botafogo RJ,0,1,A
+2016,America MG,Internacional,1,0,H
+2016,Palmeiras,Coritiba,2,1,H
+2016,Sport Recife,Santos,1,0,H
+2016,America MG,Botafogo RJ,1,0,H
+2016,Atletico-PR,Ponte Preta,3,0,H
+2016,Figueirense,Santa Cruz,3,1,H
+2016,Corinthians,Fluminense,0,1,A
+2016,Flamengo RJ,Cruzeiro,2,1,H
+2016,Gremio,Chapecoense-SC,1,0,H
+2016,Vitoria,Sao Paulo,2,0,H
+2016,Atletico-MG,Internacional,3,1,H
+2016,Fluminense,Sport Recife,3,1,H
+2016,Chapecoense-SC,Vitoria,1,4,A
+2016,Santos,Atletico-PR,2,0,H
+2016,Sao Paulo,Flamengo RJ,0,0,D
+2016,Botafogo RJ,Corinthians,2,0,H
+2016,Ponte Preta,Atletico-MG,1,2,A
+2016,Cruzeiro,Gremio,1,0,H
+2016,Internacional,Figueirense,1,0,H
+2016,Santa Cruz,Palmeiras,2,3,A
+2016,Coritiba,America MG,3,0,H
+2016,Atletico-PR,Chapecoense-SC,3,1,H
+2016,Vitoria,Gremio,0,1,A
+2016,Corinthians,Atletico-MG,0,0,D
+2016,Santos,Fluminense,2,1,H
+2016,Sport Recife,Sao Paulo,1,1,D
+2016,Internacional,Coritiba,1,0,H
+2016,Cruzeiro,Ponte Preta,2,0,H
+2016,America MG,Palmeiras,0,2,A
+2016,Figueirense,Botafogo RJ,0,1,A
+2016,Flamengo RJ,Santa Cruz,3,0,H
+2016,Chapecoense-SC,Sport Recife,3,0,H
+2016,Coritiba,Figueirense,0,0,D
+2016,Botafogo RJ,Internacional,1,0,H
+2016,Santa Cruz,Corinthians,2,4,A
+2016,Atletico-MG,America MG,3,0,H
+2016,Palmeiras,Cruzeiro,0,0,D
+2016,Ponte Preta,Vitoria,2,0,H
+2016,Fluminense,Flamengo RJ,1,2,A
+2016,Gremio,Atletico-PR,1,0,H
+2016,Sao Paulo,Santos,0,1,A
+2016,Atletico-PR,Coritiba,2,0,H
+2016,Botafogo RJ,Atletico-MG,3,2,H
+2016,Cruzeiro,Chapecoense-SC,0,0,D
+2016,Figueirense,Palmeiras,1,2,A
+2016,Internacional,Flamengo RJ,2,1,H
+2016,Corinthians,America MG,2,0,H
+2016,Ponte Preta,Santa Cruz,3,0,H
+2016,Santos,Gremio,1,1,D
+2016,Sport Recife,Vitoria,1,0,H
+2016,Fluminense,Sao Paulo,1,2,A
+2016,Santa Cruz,Botafogo RJ,0,1,A
+2016,Sao Paulo,Ponte Preta,2,0,H
+2016,Flamengo RJ,Corinthians,2,2,D
+2016,Gremio,Internacional,0,0,D
+2016,Palmeiras,Sport Recife,2,1,H
+2016,Vitoria,Cruzeiro,0,1,A
+2016,Coritiba,Fluminense,1,1,D
+2016,Atletico-MG,Figueirense,3,0,H
+2016,Chapecoense-SC,Santos,0,1,A
+2016,America MG,Atletico-PR,1,0,H
+2016,Sport Recife,Ponte Preta,1,0,H
+2016,Fluminense,Vitoria,2,2,D
+2016,Atletico-MG,Flamengo RJ,2,2,D
+2016,Atletico-PR,Cruzeiro,1,0,H
+2016,Corinthians,Chapecoense-SC,1,1,D
+2016,Botafogo RJ,Coritiba,0,0,D
+2016,Internacional,Santa Cruz,1,1,D
+2016,Figueirense,Gremio,0,0,D
+2016,Santos,Palmeiras,1,0,H
+2016,America MG,Sao Paulo,1,0,H
+2016,Flamengo RJ,Botafogo RJ,0,0,D
+2016,Sao Paulo,Corinthians,4,0,H
+2016,Ponte Preta,Santos,1,2,A
+2016,Cruzeiro,Fluminense,4,2,H
+2016,Palmeiras,Internacional,1,0,H
+2016,Santa Cruz,America MG,1,0,H
+2016,Vitoria,Atletico-PR,3,2,H
+2016,Chapecoense-SC,Figueirense,1,0,H
+2016,Coritiba,Atletico-MG,2,0,H
+2016,Gremio,Sport Recife,0,3,A
+2016,Fluminense,Atletico-PR,1,1,D
+2016,Botafogo RJ,Chapecoense-SC,0,2,A
+2016,Coritiba,Santa Cruz,1,0,H
+2016,America MG,Flamengo RJ,0,1,A
+2016,Figueirense,Corinthians,1,1,D
+2016,Sport Recife,Cruzeiro,0,1,A
+2016,Santos,Vitoria,3,2,H
+2016,Sao Paulo,Gremio,1,1,D
+2016,Atletico-MG,Palmeiras,1,1,D
+2016,Internacional,Ponte Preta,1,1,D
+2016,Atletico-PR,Sport Recife,2,0,H
+2016,Cruzeiro,Santos,2,2,D
+2016,Gremio,America MG,3,0,H
+2016,Palmeiras,Botafogo RJ,1,0,H
+2016,Ponte Preta,Fluminense,1,0,H
+2016,Vitoria,Figueirense,4,0,H
+2016,Chapecoense-SC,Sao Paulo,2,0,H
+2016,Flamengo RJ,Coritiba,2,2,D
+2016,Santa Cruz,Atletico-MG,3,3,D
+2016,Corinthians,Internacional,1,0,H
+2016,America MG,Sport Recife,2,2,D
+2016,Botafogo RJ,Ponte Preta,1,1,D
+2016,Corinthians,Atletico-PR,0,0,D
+2016,Atletico-MG,Sao Paulo,1,2,A
+2016,Flamengo RJ,Santos,2,0,H
+2016,Internacional,Cruzeiro,1,0,H
+2016,Palmeiras,Chapecoense-SC,1,0,H
+2016,Figueirense,Fluminense,1,0,H
+2016,Santa Cruz,Gremio,5,1,H
+2016,Coritiba,Vitoria,0,1,A
+2016,Atletico-PR,Flamengo RJ,0,0,D
+2016,Chapecoense-SC,Atletico-MG,,,
+2016,Cruzeiro,Corinthians,3,2,H
+2016,Fluminense,Internacional,1,1,D
+2016,Gremio,Botafogo RJ,0,1,A
+2016,Ponte Preta,Coritiba,2,0,H
+2016,Santos,America MG,1,0,H
+2016,Sao Paulo,Santa Cruz,5,0,H
+2016,Sport Recife,Figueirense,2,0,H
+2016,Vitoria,Palmeiras,1,2,A
+2017,Flamengo RJ,Atletico-MG,1,1,D
+2017,Corinthians,Chapecoense-SC,1,1,D
+2017,Fluminense,Santos,3,2,H
+2017,Avai,Vitoria,0,0,D
+2017,Bahia,Atletico-PR,6,2,H
+2017,Cruzeiro,Sao Paulo,1,0,H
+2017,Palmeiras,Vasco,4,0,H
+2017,Ponte Preta,Sport Recife,4,0,H
+2017,Gremio,Botafogo RJ,2,0,H
+2017,Coritiba,Atletico GO,4,1,H
+2017,Santos,Coritiba,1,0,H
+2017,Atletico GO,Flamengo RJ,0,3,A
+2017,Chapecoense-SC,Palmeiras,1,0,H
+2017,Vasco,Bahia,2,1,H
+2017,Atletico-MG,Fluminense,1,2,A
+2017,Atletico-PR,Gremio,0,2,A
+2017,Vitoria,Corinthians,0,1,A
+2017,Botafogo RJ,Ponte Preta,2,0,H
+2017,Sport Recife,Cruzeiro,1,1,D
+2017,Sao Paulo,Avai,2,0,H
+2017,Vasco,Fluminense,3,2,H
+2017,Sao Paulo,Palmeiras,2,0,H
+2017,Vitoria,Coritiba,0,1,A
+2017,Atletico-MG,Ponte Preta,2,2,D
+2017,Atletico GO,Corinthians,0,1,A
+2017,Atletico-PR,Flamengo RJ,1,1,D
+2017,Santos,Cruzeiro,0,1,A
+2017,Sport Recife,Gremio,4,3,H
+2017,Botafogo RJ,Bahia,1,0,H
+2017,Chapecoense-SC,Avai,2,0,H
+2017,Coritiba,Atletico-PR,1,0,H
+2017,Fluminense,Vitoria,2,1,H
+2017,Corinthians,Santos,2,0,H
+2017,Avai,Sport Recife,1,0,H
+2017,Flamengo RJ,Botafogo RJ,0,0,D
+2017,Gremio,Vasco,2,0,H
+2017,Palmeiras,Atletico-MG,0,0,D
+2017,Ponte Preta,Sao Paulo,1,0,H
+2017,Cruzeiro,Chapecoense-SC,0,2,A
+2017,Bahia,Atletico GO,3,0,H
+2017,Fluminense,Atletico-PR,1,1,D
+2017,Atletico-MG,Avai,1,0,H
+2017,Coritiba,Palmeiras,1,0,H
+2017,Santos,Botafogo RJ,1,0,H
+2017,Sport Recife,Flamengo RJ,2,0,H
+2017,Vasco,Corinthians,2,5,A
+2017,Atletico GO,Ponte Preta,3,0,H
+2017,Sao Paulo,Vitoria,2,0,H
+2017,Chapecoense-SC,Gremio,3,6,A
+2017,Bahia,Cruzeiro,1,0,H
+2017,Palmeiras,Fluminense,3,1,H
+2017,Vasco,Sport Recife,2,1,H
+2017,Botafogo RJ,Coritiba,2,2,D
+2017,Avai,Flamengo RJ,1,1,D
+2017,Corinthians,Sao Paulo,3,2,H
+2017,Ponte Preta,Chapecoense-SC,3,2,H
+2017,Vitoria,Atletico-MG,2,0,H
+2017,Cruzeiro,Atletico GO,2,0,H
+2017,Atletico-PR,Santos,0,2,A
+2017,Gremio,Bahia,1,0,H
+2017,Atletico GO,Avai,3,1,H
+2017,Atletico-MG,Atletico-PR,0,1,A
+2017,Sport Recife,Sao Paulo,0,0,D
+2017,Vitoria,Botafogo RJ,2,2,D
+2017,Flamengo RJ,Ponte Preta,2,0,H
+2017,Chapecoense-SC,Vasco,2,1,H
+2017,Corinthians,Cruzeiro,1,0,H
+2017,Santos,Palmeiras,1,0,H
+2017,Coritiba,Bahia,0,0,D
+2017,Fluminense,Gremio,0,2,A
+2017,Atletico GO,Atletico-PR,0,1,A
+2017,Vasco,Avai,1,0,H
+2017,Santos,Ponte Preta,0,0,D
+2017,Coritiba,Corinthians,0,0,D
+2017,Bahia,Palmeiras,2,4,A
+2017,Chapecoense-SC,Botafogo RJ,0,2,A
+2017,Fluminense,Flamengo RJ,2,2,D
+2017,Sao Paulo,Atletico-MG,1,2,A
+2017,Sport Recife,Vitoria,1,3,A
+2017,Cruzeiro,Gremio,3,3,D
+2017,Vitoria,Santos,0,2,A
+2017,Botafogo RJ,Vasco,3,1,H
+2017,Palmeiras,Atletico GO,1,0,H
+2017,Atletico-MG,Sport Recife,2,2,D
+2017,Atletico-PR,Sao Paulo,1,0,H
+2017,Avai,Fluminense,0,3,A
+2017,Corinthians,Bahia,3,0,H
+2017,Ponte Preta,Cruzeiro,1,0,H
+2017,Flamengo RJ,Chapecoense-SC,5,1,H
+2017,Gremio,Coritiba,2,0,H
+2017,Santos,Sport Recife,0,1,A
+2017,Vasco,Atletico GO,1,0,H
+2017,Atletico-PR,Vitoria,4,1,H
+2017,Cruzeiro,Coritiba,2,0,H
+2017,Gremio,Corinthians,0,1,A
+2017,Ponte Preta,Palmeiras,1,2,A
+2017,Sao Paulo,Fluminense,1,1,D
+2017,Bahia,Flamengo RJ,0,1,A
+2017,Chapecoense-SC,Atletico-MG,0,1,A
+2017,Botafogo RJ,Avai,0,2,A
+2017,Palmeiras,Gremio,1,0,H
+2017,Atletico GO,Santos,1,1,D
+2017,Atletico-MG,Cruzeiro,3,1,H
+2017,Corinthians,Botafogo RJ,1,0,H
+2017,Flamengo RJ,Sao Paulo,2,0,H
+2017,Sport Recife,Atletico-PR,1,0,H
+2017,Vitoria,Bahia,0,0,D
+2017,Avai,Ponte Preta,0,0,D
+2017,Coritiba,Vasco,2,2,D
+2017,Fluminense,Chapecoense-SC,3,3,D
+2017,Atletico GO,Vitoria,1,2,A
+2017,Vasco,Flamengo RJ,0,1,A
+2017,Corinthians,Ponte Preta,2,0,H
+2017,Chapecoense-SC,Atletico-PR,1,1,D
+2017,Bahia,Fluminense,1,1,D
+2017,Cruzeiro,Palmeiras,3,1,H
+2017,Gremio,Avai,0,2,A
+2017,Botafogo RJ,Atletico-MG,1,1,D
+2017,Santos,Sao Paulo,3,2,H
+2017,Coritiba,Sport Recife,0,3,A
+2017,Atletico-MG,Santos,0,1,A
+2017,Ponte Preta,Bahia,0,3,A
+2017,Fluminense,Botafogo RJ,0,1,A
+2017,Atletico-PR,Cruzeiro,0,2,A
+2017,Palmeiras,Corinthians,0,2,A
+2017,Vitoria,Vasco,1,4,A
+2017,Flamengo RJ,Gremio,0,1,A
+2017,Sao Paulo,Atletico GO,2,2,D
+2017,Sport Recife,Chapecoense-SC,3,0,H
+2017,Avai,Coritiba,1,4,A
+2017,Corinthians,Atletico-PR,2,2,D
+2017,Palmeiras,Vitoria,4,2,H
+2017,Atletico GO,Atletico-MG,1,2,A
+2017,Chapecoense-SC,Sao Paulo,2,0,H
+2017,Cruzeiro,Flamengo RJ,1,1,D
+2017,Gremio,Ponte Preta,3,1,H
+2017,Vasco,Santos,0,0,D
+2017,Bahia,Avai,1,1,D
+2017,Coritiba,Fluminense,1,2,A
+2017,Botafogo RJ,Sport Recife,2,1,H
+2017,Santos,Chapecoense-SC,1,0,H
+2017,Vitoria,Gremio,1,3,A
+2017,Avai,Corinthians,0,0,D
+2017,Ponte Preta,Coritiba,4,0,H
+2017,Atletico-MG,Bahia,0,2,A
+2017,Flamengo RJ,Palmeiras,2,2,D
+2017,Sao Paulo,Vasco,1,0,H
+2017,Fluminense,Cruzeiro,1,1,D
+2017,Sport Recife,Atletico GO,4,0,H
+2017,Atletico-PR,Botafogo RJ,0,0,D
+2017,Vitoria,Chapecoense-SC,1,2,A
+2017,Flamengo RJ,Coritiba,2,1,H
+2017,Santos,Bahia,3,0,H
+2017,Avai,Cruzeiro,1,0,H
+2017,Fluminense,Corinthians,0,1,A
+2017,Sport Recife,Palmeiras,0,2,A
+2017,Atletico GO,Botafogo RJ,1,1,D
+2017,Atletico-MG,Vasco,1,2,A
+2017,Atletico-PR,Ponte Preta,0,2,A
+2017,Sao Paulo,Gremio,1,1,D
+2017,Botafogo RJ,Sao Paulo,3,4,A
+2017,Palmeiras,Avai,2,0,H
+2017,Chapecoense-SC,Atletico GO,1,2,A
+2017,Bahia,Sport Recife,1,3,A
+2017,Corinthians,Flamengo RJ,1,1,D
+2017,Coritiba,Atletico-MG,0,2,A
+2017,Cruzeiro,Vitoria,0,0,D
+2017,Gremio,Santos,1,1,D
+2017,Vasco,Atletico-PR,0,1,A
+2017,Chapecoense-SC,Bahia,1,1,D
+2017,Sport Recife,Fluminense,2,2,D
+2017,Atletico-MG,Corinthians,0,2,A
+2017,Vitoria,Ponte Preta,3,1,H
+2017,Atletico GO,Gremio,0,1,A
+2017,Botafogo RJ,Palmeiras,1,2,A
+2017,Santos,Flamengo RJ,3,2,H
+2017,Atletico-PR,Avai,5,0,H
+2017,Sao Paulo,Coritiba,1,2,A
+2017,Vasco,Cruzeiro,0,3,A
+2017,Corinthians,Sport Recife,3,1,H
+2017,Fluminense,Atletico GO,3,1,H
+2017,Flamengo RJ,Vitoria,0,2,A
+2017,Bahia,Sao Paulo,2,1,H
+2017,Coritiba,Chapecoense-SC,2,0,H
+2017,Cruzeiro,Botafogo RJ,0,0,D
+2017,Gremio,Atletico-MG,2,0,H
+2017,Palmeiras,Atletico-PR,0,1,A
+2017,Avai,Santos,0,0,D
+2017,Ponte Preta,Vasco,0,0,D
+2017,Ponte Preta,Fluminense,0,0,D
+2017,Atletico GO,Coritiba,1,0,H
+2017,Vitoria,Avai,0,1,A
+2017,Sao Paulo,Cruzeiro,3,2,H
+2017,Atletico-MG,Flamengo RJ,2,0,H
+2017,Sport Recife,Ponte Preta,0,0,D
+2017,Vasco,Palmeiras,1,1,D
+2017,Atletico-PR,Bahia,4,1,H
+2017,Botafogo RJ,Gremio,1,0,H
+2017,Santos,Fluminense,0,0,D
+2017,Corinthians,Vitoria,0,1,A
+2017,Flamengo RJ,Atletico GO,2,0,H
+2017,Gremio,Atletico-PR,0,0,D
+2017,Avai,Sao Paulo,1,1,D
+2017,Bahia,Vasco,3,0,H
+2017,Cruzeiro,Sport Recife,2,0,H
+2017,Ponte Preta,Botafogo RJ,2,1,H
+2017,Coritiba,Santos,0,0,D
+2017,Palmeiras,Chapecoense-SC,0,2,A
+2017,Fluminense,Atletico-MG,2,1,H
+2017,Chapecoense-SC,Corinthians,0,1,A
+2017,Fluminense,Vasco,0,1,A
+2017,Corinthians,Atletico GO,0,1,A
+2017,Bahia,Botafogo RJ,1,2,A
+2017,Flamengo RJ,Atletico-PR,2,0,H
+2017,Palmeiras,Sao Paulo,4,2,H
+2017,Ponte Preta,Atletico-MG,1,2,A
+2017,Avai,Chapecoense-SC,1,0,H
+2017,Cruzeiro,Santos,1,1,D
+2017,Coritiba,Vitoria,0,1,A
+2017,Gremio,Sport Recife,5,0,H
+2017,Atletico-MG,Palmeiras,1,1,D
+2017,Vasco,Gremio,1,0,H
+2017,Sao Paulo,Ponte Preta,2,2,D
+2017,Atletico-PR,Coritiba,1,1,D
+2017,Santos,Corinthians,2,0,H
+2017,Sport Recife,Avai,0,1,A
+2017,Vitoria,Fluminense,2,2,D
+2017,Botafogo RJ,Flamengo RJ,2,0,H
+2017,Chapecoense-SC,Cruzeiro,1,2,A
+2017,Atletico GO,Bahia,1,1,D
+2017,Botafogo RJ,Santos,2,0,H
+2017,Ponte Preta,Atletico GO,1,3,A
+2017,Avai,Atletico-MG,1,1,D
+2017,Atletico-PR,Fluminense,3,1,H
+2017,Corinthians,Vasco,1,0,H
+2017,Flamengo RJ,Sport Recife,2,0,H
+2017,Gremio,Chapecoense-SC,0,1,A
+2017,Vitoria,Sao Paulo,1,2,A
+2017,Cruzeiro,Bahia,1,0,H
+2017,Palmeiras,Coritiba,1,0,H
+2017,Flamengo RJ,Avai,1,1,D
+2017,Santos,Atletico-PR,1,0,H
+2017,Sao Paulo,Corinthians,1,1,D
+2017,Atletico GO,Cruzeiro,1,2,A
+2017,Chapecoense-SC,Ponte Preta,1,0,H
+2017,Coritiba,Botafogo RJ,2,3,A
+2017,Fluminense,Palmeiras,0,1,A
+2017,Atletico-MG,Vitoria,1,3,A
+2017,Bahia,Gremio,1,0,H
+2017,Sport Recife,Vasco,1,1,D
+2017,Bahia,Coritiba,1,1,D
+2017,Vasco,Chapecoense-SC,1,1,D
+2017,Palmeiras,Santos,0,1,A
+2017,Avai,Atletico GO,0,2,A
+2017,Botafogo RJ,Vitoria,2,3,A
+2017,Cruzeiro,Corinthians,1,1,D
+2017,Gremio,Fluminense,1,0,H
+2017,Sao Paulo,Sport Recife,1,0,H
+2017,Atletico-PR,Atletico-MG,0,2,A
+2017,Ponte Preta,Flamengo RJ,1,0,H
+2017,Cruzeiro,Ponte Preta,2,1,H
+2017,Atletico-PR,Atletico GO,2,2,D
+2017,Botafogo RJ,Chapecoense-SC,2,1,H
+2017,Corinthians,Coritiba,3,1,H
+2017,Atletico-MG,Sao Paulo,1,0,H
+2017,Avai,Vasco,1,2,A
+2017,Gremio,Cruzeiro,0,1,A
+2017,Flamengo RJ,Fluminense,1,1,D
+2017,Ponte Preta,Santos,1,1,D
+2017,Vitoria,Sport Recife,1,2,A
+2017,Palmeiras,Bahia,2,2,D
+2017,Vasco,Botafogo RJ,1,0,H
+2017,Sao Paulo,Atletico-PR,2,1,H
+2017,Atletico GO,Palmeiras,1,3,A
+2017,Chapecoense-SC,Flamengo RJ,0,1,A
+2017,Fluminense,Avai,1,0,H
+2017,Sport Recife,Atletico-MG,1,1,D
+2017,Bahia,Corinthians,2,0,H
+2017,Coritiba,Gremio,0,1,A
+2017,Santos,Vitoria,2,2,D
+2017,Atletico GO,Vasco,0,1,A
+2017,Coritiba,Cruzeiro,1,0,H
+2017,Atletico-MG,Chapecoense-SC,2,3,A
+2017,Avai,Botafogo RJ,1,1,D
+2017,Corinthians,Gremio,0,0,D
+2017,Fluminense,Sao Paulo,3,1,H
+2017,Palmeiras,Ponte Preta,2,0,H
+2017,Vitoria,Atletico-PR,2,3,A
+2017,Flamengo RJ,Bahia,4,1,H
+2017,Sport Recife,Santos,1,1,D
+2017,Vasco,Coritiba,1,1,D
+2017,Atletico-PR,Sport Recife,2,1,H
+2017,Bahia,Vitoria,2,1,H
+2017,Cruzeiro,Atletico-MG,1,3,A
+2017,Gremio,Palmeiras,1,3,A
+2017,Santos,Atletico GO,1,0,H
+2017,Sao Paulo,Flamengo RJ,2,0,H
+2017,Chapecoense-SC,Fluminense,2,0,H
+2017,Ponte Preta,Avai,1,2,A
+2017,Botafogo RJ,Corinthians,2,1,H
+2017,Sao Paulo,Santos,2,1,H
+2017,Flamengo RJ,Vasco,0,0,D
+2017,Atletico-PR,Chapecoense-SC,0,0,D
+2017,Atletico-MG,Botafogo RJ,0,0,D
+2017,Fluminense,Bahia,1,1,D
+2017,Ponte Preta,Corinthians,1,0,H
+2017,Sport Recife,Coritiba,3,4,A
+2017,Vitoria,Atletico GO,1,1,D
+2017,Avai,Gremio,2,2,D
+2017,Palmeiras,Cruzeiro,2,2,D
+2017,Santos,Atletico-MG,3,1,H
+2017,Atletico GO,Sao Paulo,0,1,A
+2017,Botafogo RJ,Fluminense,1,2,A
+2017,Coritiba,Avai,4,0,H
+2017,Corinthians,Palmeiras,3,2,H
+2017,Cruzeiro,Atletico-PR,1,0,H
+2017,Gremio,Flamengo RJ,3,1,H
+2017,Bahia,Ponte Preta,2,0,H
+2017,Chapecoense-SC,Sport Recife,1,1,D
+2017,Vasco,Vitoria,1,1,D
+2017,Avai,Bahia,1,2,A
+2017,Ponte Preta,Gremio,0,1,A
+2017,Atletico-PR,Corinthians,0,1,A
+2017,Sport Recife,Botafogo RJ,1,2,A
+2017,Flamengo RJ,Cruzeiro,2,0,H
+2017,Santos,Vasco,1,2,A
+2017,Vitoria,Palmeiras,3,1,H
+2017,Atletico-MG,Atletico GO,3,2,H
+2017,Sao Paulo,Chapecoense-SC,2,2,D
+2017,Fluminense,Coritiba,2,2,D
+2017,Botafogo RJ,Atletico-PR,0,1,A
+2017,Corinthians,Avai,1,0,H
+2017,Atletico GO,Sport Recife,2,0,H
+2017,Gremio,Vitoria,1,1,D
+2017,Palmeiras,Flamengo RJ,2,0,H
+2017,Vasco,Sao Paulo,1,1,D
+2017,Bahia,Atletico-MG,2,2,D
+2017,Coritiba,Ponte Preta,1,1,D
+2017,Cruzeiro,Fluminense,3,1,H
+2017,Chapecoense-SC,Santos,2,0,H
+2017,Ponte Preta,Atletico-PR,2,1,H
+2017,Cruzeiro,Avai,2,2,D
+2017,Gremio,Sao Paulo,1,0,H
+2017,Corinthians,Fluminense,3,1,H
+2017,Vasco,Atletico-MG,1,1,D
+2017,Botafogo RJ,Atletico GO,1,2,A
+2017,Chapecoense-SC,Vitoria,2,1,H
+2017,Palmeiras,Sport Recife,5,1,H
+2017,Bahia,Santos,3,1,H
+2017,Coritiba,Flamengo RJ,1,0,H
+2017,Atletico GO,Chapecoense-SC,1,1,D
+2017,Flamengo RJ,Corinthians,3,0,H
+2017,Sao Paulo,Botafogo RJ,0,0,D
+2017,Sport Recife,Bahia,1,0,H
+2017,Vitoria,Cruzeiro,1,1,D
+2017,Atletico-MG,Coritiba,3,0,H
+2017,Atletico-PR,Vasco,3,1,H
+2017,Santos,Gremio,1,0,H
+2017,Fluminense,Ponte Preta,2,0,H
+2017,Avai,Palmeiras,2,1,H
+2017,Fluminense,Sport Recife,1,2,A
+2017,Avai,Atletico-PR,1,0,H
+2017,Corinthians,Atletico-MG,2,2,D
+2017,Coritiba,Sao Paulo,1,2,A
+2017,Cruzeiro,Vasco,0,1,A
+2017,Gremio,Atletico GO,1,1,D
+2017,Ponte Preta,Vitoria,2,3,A
+2017,Bahia,Chapecoense-SC,0,1,A
+2017,Flamengo RJ,Santos,1,2,A
+2017,Palmeiras,Botafogo RJ,2,0,H
+2017,Atletico GO,Fluminense,1,1,D
+2017,Atletico-MG,Gremio,4,3,H
+2017,Atletico-PR,Palmeiras,3,0,H
+2017,Botafogo RJ,Cruzeiro,2,2,D
+2017,Chapecoense-SC,Coritiba,2,1,H
+2017,Santos,Avai,1,1,D
+2017,Sao Paulo,Bahia,1,1,D
+2017,Sport Recife,Corinthians,1,0,H
+2017,Vasco,Ponte Preta,2,1,H
+2017,Vitoria,Flamengo RJ,1,2,A
+2018,Cruzeiro,Gremio,0,1,A
+2018,Vitoria,Flamengo RJ,2,2,D
+2018,Santos,Ceara,2,0,H
+2018,America MG,Sport Recife,3,0,H
+2018,Corinthians,Fluminense,2,1,H
+2018,Internacional,Bahia,2,0,H
+2018,Vasco,Atletico-MG,2,1,H
+2018,Atletico-PR,Chapecoense-SC,5,1,H
+2018,Botafogo RJ,Palmeiras,1,1,D
+2018,Sao Paulo,Parana,1,0,H
+2018,Bahia,Santos,1,0,H
+2018,Flamengo RJ,America MG,2,0,H
+2018,Parana,Corinthians,0,4,A
+2018,Atletico-MG,Vitoria,2,1,H
+2018,Ceara,Sao Paulo,0,0,D
+2018,Chapecoense-SC,Vasco,1,1,D
+2018,Fluminense,Cruzeiro,1,0,H
+2018,Palmeiras,Internacional,1,0,H
+2018,Gremio,Atletico-PR,0,0,D
+2018,Sport Recife,Botafogo RJ,1,1,D
+2018,Botafogo RJ,Gremio,2,1,H
+2018,Atletico-MG,Corinthians,1,0,H
+2018,Bahia,Atletico-PR,0,0,D
+2018,Ceara,Flamengo RJ,0,3,A
+2018,Fluminense,Sao Paulo,1,1,D
+2018,Palmeiras,Chapecoense-SC,0,0,D
+2018,Parana,Sport Recife,1,2,A
+2018,Internacional,Cruzeiro,0,0,D
+2018,America MG,Vitoria,2,1,H
+2018,Sao Paulo,Atletico-MG,2,2,D
+2018,Vasco,America MG,4,1,H
+2018,Corinthians,Ceara,1,1,D
+2018,Atletico-PR,Palmeiras,1,3,A
+2018,Cruzeiro,Botafogo RJ,1,0,H
+2018,Flamengo RJ,Internacional,2,0,H
+2018,Vitoria,Fluminense,1,2,A
+2018,Gremio,Santos,5,1,H
+2018,Sport Recife,Bahia,2,0,H
+2018,Chapecoense-SC,Parana,1,1,D
+2018,Gremio,Internacional,0,0,D
+2018,Cruzeiro,Sport Recife,2,0,H
+2018,Atletico-PR,Atletico-MG,1,2,A
+2018,Bahia,Sao Paulo,2,2,D
+2018,Chapecoense-SC,Flamengo RJ,3,2,H
+2018,Corinthians,Palmeiras,1,0,H
+2018,Vasco,Vitoria,2,3,A
+2018,Santos,Parana,3,1,H
+2018,Botafogo RJ,Fluminense,2,1,H
+2018,Ceara,America MG,2,2,D
+2018,Atletico-MG,Cruzeiro,1,0,H
+2018,Flamengo RJ,Vasco,1,1,D
+2018,Palmeiras,Bahia,3,0,H
+2018,Vitoria,Ceara,2,1,H
+2018,America MG,Botafogo RJ,1,0,H
+2018,Parana,Gremio,0,0,D
+2018,Sao Paulo,Santos,1,0,H
+2018,Sport Recife,Corinthians,1,1,D
+2018,Fluminense,Atletico-PR,2,0,H
+2018,Internacional,Chapecoense-SC,3,0,H
+2018,Fluminense,Chapecoense-SC,3,1,H
+2018,Palmeiras,Sport Recife,2,3,A
+2018,Atletico-MG,Flamengo RJ,0,1,A
+2018,Parana,Atletico-PR,0,0,D
+2018,Bahia,Vasco,3,0,H
+2018,Botafogo RJ,Vitoria,1,1,D
+2018,Internacional,Corinthians,2,1,H
+2018,Santos,Cruzeiro,0,1,A
+2018,America MG,Sao Paulo,1,3,A
+2018,Ceara,Gremio,0,1,A
+2018,Sport Recife,Atletico-MG,3,2,H
+2018,Vasco,Parana,1,0,H
+2018,Vitoria,Internacional,2,3,A
+2018,Chapecoense-SC,Ceara,2,0,H
+2018,Sao Paulo,Botafogo RJ,3,2,H
+2018,Cruzeiro,Palmeiras,1,0,H
+2018,Gremio,Fluminense,0,0,D
+2018,Flamengo RJ,Bahia,2,0,H
+2018,Corinthians,America MG,1,0,H
+2018,Atletico-PR,Santos,2,0,H
+2018,Atletico-MG,Chapecoense-SC,3,3,D
+2018,Internacional,Sport Recife,0,0,D
+2018,Vasco,Botafogo RJ,1,2,A
+2018,Palmeiras,Sao Paulo,3,1,H
+2018,America MG,Atletico-PR,3,1,H
+2018,Bahia,Gremio,0,2,A
+2018,Flamengo RJ,Corinthians,1,0,H
+2018,Santos,Vitoria,5,2,H
+2018,Ceara,Cruzeiro,0,1,A
+2018,Parana,Fluminense,2,1,H
+2018,Sao Paulo,Internacional,0,0,D
+2018,Botafogo RJ,Ceara,0,0,D
+2018,Vitoria,Chapecoense-SC,1,0,H
+2018,Corinthians,Santos,1,1,D
+2018,Sport Recife,Atletico-PR,1,0,H
+2018,Cruzeiro,Vasco,1,1,D
+2018,Gremio,Palmeiras,0,2,A
+2018,Fluminense,Flamengo RJ,0,2,A
+2018,Parana,Bahia,1,0,H
+2018,America MG,Atletico-MG,1,3,A
+2018,Atletico-PR,Sao Paulo,0,1,A
+2018,Chapecoense-SC,Cruzeiro,2,0,H
+2018,Vasco,Sport Recife,3,2,H
+2018,Corinthians,Vitoria,0,0,D
+2018,Atletico-MG,Fluminense,5,2,H
+2018,Bahia,Botafogo RJ,3,3,D
+2018,Ceara,Palmeiras,2,2,D
+2018,Gremio,America MG,1,0,H
+2018,Flamengo RJ,Parana,2,0,H
+2018,Santos,Internacional,1,2,A
+2018,Sao Paulo,Vitoria,3,0,H
+2018,America MG,Chapecoense-SC,0,0,D
+2018,Fluminense,Santos,0,1,A
+2018,Parana,Cruzeiro,1,1,D
+2018,Sport Recife,Gremio,0,0,D
+2018,Botafogo RJ,Atletico-PR,2,0,H
+2018,Palmeiras,Flamengo RJ,1,1,D
+2018,Atletico-MG,Ceara,2,1,H
+2018,Bahia,Corinthians,1,0,H
+2018,Internacional,Vasco,3,1,H
+2018,Ceara,Sport Recife,1,0,H
+2018,Vitoria,Parana,1,0,H
+2018,Corinthians,Botafogo RJ,2,0,H
+2018,Flamengo RJ,Sao Paulo,0,1,A
+2018,Gremio,Atletico-MG,2,0,H
+2018,Chapecoense-SC,Bahia,1,1,D
+2018,Cruzeiro,America MG,3,1,H
+2018,Santos,Palmeiras,1,1,D
+2018,Vasco,Fluminense,1,1,D
+2018,Atletico-PR,Internacional,2,2,D
+2018,Flamengo RJ,Botafogo RJ,2,0,H
+2018,Sao Paulo,Corinthians,3,1,H
+2018,Bahia,Vitoria,4,1,H
+2018,Palmeiras,Atletico-MG,3,2,H
+2018,Parana,America MG,1,0,H
+2018,Sport Recife,Fluminense,1,2,A
+2018,Vasco,Gremio,1,0,H
+2018,Chapecoense-SC,Santos,0,0,D
+2018,Cruzeiro,Atletico-PR,2,1,H
+2018,Internacional,Ceara,1,0,H
+2018,Fluminense,Palmeiras,1,0,H
+2018,Atletico-MG,Parana,2,0,H
+2018,Corinthians,Cruzeiro,2,0,H
+2018,Santos,Flamengo RJ,1,1,D
+2018,Botafogo RJ,Chapecoense-SC,1,0,H
+2018,Gremio,Sao Paulo,2,1,H
+2018,Vitoria,Sport Recife,1,0,H
+2018,America MG,Internacional,2,1,H
+2018,Ceara,Fluminense,1,0,H
+2018,Palmeiras,Parana,3,0,H
+2018,Vasco,Corinthians,1,4,A
+2018,Atletico-PR,Vitoria,4,0,H
+2018,Cruzeiro,Sao Paulo,0,2,A
+2018,Flamengo RJ,Sport Recife,4,1,H
+2018,Internacional,Botafogo RJ,3,0,H
+2018,Chapecoense-SC,Gremio,1,1,D
+2018,Santos,America MG,0,1,A
+2018,Bahia,Atletico-MG,2,2,D
+2018,Botafogo RJ,Santos,0,0,D
+2018,Gremio,Flamengo RJ,2,0,H
+2018,Corinthians,Atletico-PR,0,0,D
+2018,America MG,Palmeiras,0,0,D
+2018,Parana,Ceara,0,1,A
+2018,Sao Paulo,Vasco,2,1,H
+2018,Vitoria,Cruzeiro,1,1,D
+2018,Fluminense,Bahia,1,1,D
+2018,Sport Recife,Chapecoense-SC,1,1,D
+2018,Atletico-MG,Internacional,0,1,A
+2018,Ceara,Santos,1,1,D
+2018,Ceara,Atletico-PR,0,0,D
+2018,Bahia,America MG,1,0,H
+2018,Atletico-MG,Santos,3,1,H
+2018,Parana,Botafogo RJ,1,1,D
+2018,Chapecoense-SC,Corinthians,2,1,H
+2018,Flamengo RJ,Cruzeiro,1,0,H
+2018,Sport Recife,Sao Paulo,1,3,A
+2018,Gremio,Vitoria,4,0,H
+2018,Palmeiras,Vasco,1,0,H
+2018,Fluminense,Internacional,0,3,A
+2018,Santos,Sport Recife,3,0,H
+2018,Corinthians,Gremio,0,1,A
+2018,Atletico-PR,Flamengo RJ,3,0,H
+2018,Internacional,Parana,1,0,H
+2018,Botafogo RJ,Atletico-MG,0,3,A
+2018,Cruzeiro,Bahia,1,1,D
+2018,Vitoria,Palmeiras,0,3,A
+2018,America MG,Fluminense,0,0,D
+2018,Sao Paulo,Chapecoense-SC,2,0,H
+2018,Vasco,Ceara,1,1,D
+2018,Bahia,Internacional,0,1,A
+2018,Parana,Sao Paulo,1,1,D
+2018,Palmeiras,Botafogo RJ,2,0,H
+2018,Sport Recife,America MG,0,2,A
+2018,Fluminense,Corinthians,1,0,H
+2018,Gremio,Cruzeiro,1,1,D
+2018,Flamengo RJ,Vitoria,1,0,H
+2018,Atletico-MG,Vasco,0,0,D
+2018,Santos,Bahia,2,0,H
+2018,Atletico-PR,Gremio,2,1,H
+2018,Corinthians,Parana,1,0,H
+2018,Botafogo RJ,Sport Recife,2,0,H
+2018,Cruzeiro,Fluminense,2,1,H
+2018,Sao Paulo,Ceara,1,0,H
+2018,America MG,Flamengo RJ,2,2,D
+2018,Internacional,Palmeiras,0,0,D
+2018,Vitoria,Atletico-MG,1,0,H
+2018,Vasco,Chapecoense-SC,3,1,H
+2018,Atletico-PR,Vasco,1,0,H
+2018,Ceara,Bahia,0,2,A
+2018,Gremio,Botafogo RJ,4,0,H
+2018,Vitoria,America MG,1,0,H
+2018,Vasco,Santos,0,3,A
+2018,Corinthians,Atletico-MG,1,1,D
+2018,Flamengo RJ,Ceara,0,1,A
+2018,Atletico-PR,Bahia,2,0,H
+2018,Sao Paulo,Fluminense,1,1,D
+2018,Sport Recife,Parana,1,0,H
+2018,Chapecoense-SC,Palmeiras,1,2,A
+2018,Cruzeiro,Internacional,0,0,D
+2018,Bahia,Sport Recife,2,0,H
+2018,Botafogo RJ,Cruzeiro,1,1,D
+2018,Ceara,Corinthians,2,1,H
+2018,Palmeiras,Atletico-PR,2,0,H
+2018,Parana,Chapecoense-SC,1,1,D
+2018,Atletico-MG,Sao Paulo,1,0,H
+2018,Internacional,Flamengo RJ,2,1,H
+2018,Fluminense,Vitoria,0,0,D
+2018,Santos,Gremio,0,0,D
+2018,America MG,Vasco,2,1,H
+2018,Sport Recife,Cruzeiro,0,0,D
+2018,Sao Paulo,Bahia,1,0,H
+2018,Flamengo RJ,Chapecoense-SC,2,0,H
+2018,America MG,Ceara,0,0,D
+2018,Fluminense,Botafogo RJ,1,0,H
+2018,Internacional,Gremio,1,0,H
+2018,Palmeiras,Corinthians,1,0,H
+2018,Parana,Santos,0,2,A
+2018,Vitoria,Vasco,1,0,H
+2018,Atletico-MG,Atletico-PR,3,1,H
+2018,Chapecoense-SC,Atletico-PR,2,1,H
+2018,Ceara,Vitoria,2,0,H
+2018,Gremio,Parana,2,0,H
+2018,Vasco,Flamengo RJ,1,1,D
+2018,Botafogo RJ,America MG,1,0,H
+2018,Atletico-PR,Fluminense,3,1,H
+2018,Bahia,Palmeiras,1,1,D
+2018,Cruzeiro,Atletico-MG,0,0,D
+2018,Santos,Sao Paulo,0,0,D
+2018,Corinthians,Sport Recife,2,1,H
+2018,Chapecoense-SC,Internacional,2,1,H
+2018,Sao Paulo,America MG,1,1,D
+2018,Gremio,Ceara,3,2,H
+2018,Atletico-PR,Parana,3,0,H
+2018,Corinthians,Internacional,1,1,D
+2018,Flamengo RJ,Atletico-MG,2,1,H
+2018,Sport Recife,Palmeiras,0,1,A
+2018,Vitoria,Botafogo RJ,3,4,A
+2018,Cruzeiro,Santos,2,1,H
+2018,Chapecoense-SC,Fluminense,1,2,A
+2018,Vasco,Bahia,2,1,H
+2018,Santos,Vasco,1,1,D
+2018,Fluminense,Gremio,0,1,A
+2018,America MG,Corinthians,0,0,D
+2018,Bahia,Flamengo RJ,0,0,D
+2018,Palmeiras,Cruzeiro,3,1,H
+2018,Atletico-MG,Sport Recife,5,2,H
+2018,Botafogo RJ,Sao Paulo,2,2,D
+2018,Internacional,Vitoria,2,1,H
+2018,Santos,Atletico-PR,1,0,H
+2018,Ceara,Chapecoense-SC,3,1,H
+2018,Parana,Vasco,1,1,D
+2018,Sport Recife,Internacional,2,1,H
+2018,Corinthians,Flamengo RJ,0,3,A
+2018,Vitoria,Santos,0,1,A
+2018,Atletico-PR,America MG,4,0,H
+2018,Chapecoense-SC,Atletico-MG,1,0,H
+2018,Sao Paulo,Palmeiras,0,2,A
+2018,Gremio,Bahia,2,2,D
+2018,Fluminense,Parana,4,0,H
+2018,Botafogo RJ,Vasco,1,1,D
+2018,Flamengo RJ,Fluminense,3,0,H
+2018,Santos,Corinthians,1,0,H
+2018,Bahia,Parana,2,0,H
+2018,Chapecoense-SC,Vitoria,0,1,A
+2018,Internacional,Sao Paulo,3,1,H
+2018,Palmeiras,Gremio,2,0,H
+2018,Vasco,Cruzeiro,2,0,H
+2018,Atletico-MG,America MG,0,0,D
+2018,Atletico-PR,Sport Recife,4,0,H
+2018,Ceara,Botafogo RJ,0,0,D
+2018,America MG,Gremio,1,1,D
+2018,Botafogo RJ,Bahia,0,1,A
+2018,Sao Paulo,Atletico-PR,0,0,D
+2018,Sport Recife,Vasco,2,1,H
+2018,Fluminense,Atletico-MG,1,0,H
+2018,Palmeiras,Ceara,2,1,H
+2018,Vitoria,Corinthians,2,2,D
+2018,Cruzeiro,Chapecoense-SC,3,0,H
+2018,Parana,Flamengo RJ,0,4,A
+2018,Internacional,Santos,2,2,D
+2018,Cruzeiro,Ceara,0,2,A
+2018,Vitoria,Sao Paulo,0,1,A
+2018,Vasco,Internacional,1,1,D
+2018,Gremio,Sport Recife,3,4,A
+2018,Santos,Fluminense,3,0,H
+2018,Chapecoense-SC,America MG,1,0,H
+2018,Corinthians,Bahia,2,1,H
+2018,Flamengo RJ,Palmeiras,1,1,D
+2018,Atletico-PR,Botafogo RJ,2,1,H
+2018,Cruzeiro,Parana,3,1,H
+2018,Ceara,Atletico-MG,2,1,H
+2018,Atletico-MG,Gremio,0,1,A
+2018,Fluminense,Vasco,0,1,A
+2018,Palmeiras,Santos,3,2,H
+2018,America MG,Cruzeiro,1,2,A
+2018,Botafogo RJ,Corinthians,1,0,H
+2018,Parana,Vitoria,1,1,D
+2018,Sao Paulo,Flamengo RJ,2,2,D
+2018,Bahia,Chapecoense-SC,1,0,H
+2018,Internacional,Atletico-PR,2,1,H
+2018,Sport Recife,Ceara,1,0,H
+2018,America MG,Parana,0,1,A
+2018,Corinthians,Sao Paulo,1,1,D
+2018,Atletico-PR,Cruzeiro,2,0,H
+2018,Botafogo RJ,Flamengo RJ,2,1,H
+2018,Atletico-MG,Palmeiras,1,1,D
+2018,Ceara,Internacional,1,1,D
+2018,Gremio,Vasco,2,1,H
+2018,Vitoria,Bahia,2,2,D
+2018,Fluminense,Sport Recife,0,0,D
+2018,Santos,Chapecoense-SC,0,1,A
+2018,Vasco,Atletico-PR,1,1,D
+2018,Bahia,Ceara,2,1,H
+2018,Parana,Atletico-MG,0,1,A
+2018,Cruzeiro,Corinthians,1,0,H
+2018,Palmeiras,Fluminense,3,0,H
+2018,Sport Recife,Vitoria,0,0,D
+2018,Chapecoense-SC,Botafogo RJ,0,1,A
+2018,Flamengo RJ,Santos,1,0,H
+2018,Sao Paulo,Gremio,1,1,D
+2018,Internacional,America MG,2,0,H
+2018,Corinthians,Vasco,1,0,H
+2018,Vitoria,Atletico-PR,1,2,A
+2018,Atletico-MG,Bahia,1,0,H
+2018,America MG,Santos,2,1,H
+2018,Botafogo RJ,Internacional,1,0,H
+2018,Parana,Palmeiras,1,1,D
+2018,Sport Recife,Flamengo RJ,0,1,A
+2018,Gremio,Chapecoense-SC,2,0,H
+2018,Sao Paulo,Cruzeiro,1,0,H
+2018,Fluminense,Ceara,0,0,D
+2018,Internacional,Atletico-MG,1,2,A
+2018,Santos,Botafogo RJ,1,1,D
+2018,Atletico-PR,Corinthians,1,0,H
+2018,Cruzeiro,Vitoria,3,0,H
+2018,Flamengo RJ,Gremio,2,0,H
+2018,Palmeiras,America MG,4,0,H
+2018,Vasco,Sao Paulo,2,0,H
+2018,Bahia,Fluminense,2,0,H
+2018,Ceara,Parana,1,0,H
+2018,Chapecoense-SC,Sport Recife,2,1,H
+2018,Santos,Atletico-MG,3,2,H
+2018,Atletico-PR,Ceara,2,2,D
+2018,Cruzeiro,Flamengo RJ,0,2,A
+2018,Vasco,Palmeiras,0,1,A
+2018,Vitoria,Gremio,0,0,D
+2018,America MG,Bahia,1,0,H
+2018,Corinthians,Chapecoense-SC,0,0,D
+2018,Internacional,Fluminense,2,0,H
+2018,Botafogo RJ,Parana,2,1,H
+2018,Sao Paulo,Sport Recife,0,0,D
+2018,Atletico-MG,Botafogo RJ,1,0,H
+2018,Flamengo RJ,Atletico-PR,1,2,A
+2018,Bahia,Cruzeiro,0,0,D
+2018,Ceara,Vasco,0,0,D
+2018,Chapecoense-SC,Sao Paulo,1,0,H
+2018,Fluminense,America MG,1,0,H
+2018,Gremio,Corinthians,1,0,H
+2018,Palmeiras,Vitoria,3,2,H
+2018,Parana,Internacional,1,1,D
+2018,Sport Recife,Santos,2,1,H
+2019,Sao Paulo,Botafogo RJ,2,0,H
+2019,Atletico-MG,Avai,2,1,H
+2019,Chapecoense-SC,Internacional,2,0,H
+2019,Flamengo RJ,Cruzeiro,3,1,H
+2019,Gremio,Santos,1,2,A
+2019,Athletico-PR,Vasco,4,1,H
+2019,Bahia,Corinthians,3,2,H
+2019,Ceara,CSA,4,0,H
+2019,Fluminense,Goias,0,1,A
+2019,Palmeiras,Fortaleza,4,0,H
+2019,Corinthians,Chapecoense-SC,1,0,H
+2019,CSA,Palmeiras,1,1,D
+2019,Internacional,Flamengo RJ,2,1,H
+2019,Avai,Gremio,1,1,D
+2019,Cruzeiro,Ceara,1,0,H
+2019,Fortaleza,Athletico-PR,2,1,H
+2019,Goias,Sao Paulo,1,2,A
+2019,Vasco,Atletico-MG,1,2,A
+2019,Santos,Fluminense,2,1,H
+2019,Botafogo RJ,Bahia,3,2,H
+2019,Palmeiras,Internacional,1,0,H
+2019,Vasco,Corinthians,1,1,D
+2019,Ceara,Atletico-MG,1,2,A
+2019,Chapecoense-SC,Athletico-PR,1,1,D
+2019,Botafogo RJ,Fortaleza,1,0,H
+2019,Cruzeiro,Goias,2,1,H
+2019,CSA,Santos,0,0,D
+2019,Sao Paulo,Flamengo RJ,1,1,D
+2019,Bahia,Avai,1,0,H
+2019,Gremio,Fluminense,4,5,A
+2019,Fluminense,Botafogo RJ,0,1,A
+2019,Corinthians,Gremio,0,0,D
+2019,Goias,Ceara,2,1,H
+2019,Flamengo RJ,Chapecoense-SC,2,1,H
+2019,Atletico-MG,Palmeiras,0,2,A
+2019,Internacional,Cruzeiro,3,1,H
+2019,Santos,Vasco,3,0,H
+2019,Athletico-PR,Bahia,1,0,H
+2019,Avai,CSA,0,0,D
+2019,Fortaleza,Sao Paulo,0,1,A
+2019,Fluminense,Cruzeiro,4,1,H
+2019,Atletico-MG,Flamengo RJ,2,1,H
+2019,Palmeiras,Santos,4,0,H
+2019,Sao Paulo,Bahia,0,0,D
+2019,Athletico-PR,Corinthians,0,2,A
+2019,Chapecoense-SC,Fortaleza,1,3,A
+2019,Goias,Botafogo RJ,1,0,H
+2019,Internacional,CSA,2,0,H
+2019,Ceara,Gremio,2,1,H
+2019,Vasco,Avai,1,1,D
+2019,Botafogo RJ,Palmeiras,0,1,A
+2019,Gremio,Atletico-MG,1,0,H
+2019,Flamengo RJ,Athletico-PR,3,2,H
+2019,Santos,Internacional,0,0,D
+2019,Bahia,Fluminense,3,2,H
+2019,Corinthians,Sao Paulo,1,0,H
+2019,Cruzeiro,Chapecoense-SC,1,2,A
+2019,Fortaleza,Vasco,1,1,D
+2019,Avai,Ceara,1,2,A
+2019,CSA,Goias,1,0,H
+2019,Flamengo RJ,Fortaleza,2,0,H
+2019,Bahia,Gremio,1,0,H
+2019,Botafogo RJ,Vasco,1,0,H
+2019,Athletico-PR,Fluminense,3,0,H
+2019,Ceara,Santos,0,1,A
+2019,Sao Paulo,Cruzeiro,1,1,D
+2019,Atletico-MG,CSA,4,0,H
+2019,Chapecoense-SC,Palmeiras,1,2,A
+2019,Internacional,Avai,2,0,H
+2019,Vasco,Internacional,2,1,H
+2019,Palmeiras,Athletico-PR,1,0,H
+2019,Cruzeiro,Corinthians,0,0,D
+2019,Gremio,Fortaleza,1,0,H
+2019,Ceara,Bahia,0,0,D
+2019,Avai,Sao Paulo,0,0,D
+2019,CSA,Botafogo RJ,1,2,A
+2019,Fluminense,Flamengo RJ,0,0,D
+2019,Santos,Atletico-MG,3,1,H
+2019,Goias,Chapecoense-SC,3,1,H
+2019,Botafogo RJ,Gremio,0,1,A
+2019,Fortaleza,Cruzeiro,2,1,H
+2019,CSA,Flamengo RJ,0,2,A
+2019,Internacional,Bahia,3,1,H
+2019,Santos,Corinthians,1,0,H
+2019,Vasco,Ceara,1,0,H
+2019,Atletico-MG,Sao Paulo,1,1,D
+2019,Chapecoense-SC,Fluminense,1,1,D
+2019,Goias,Athletico-PR,2,1,H
+2019,Palmeiras,Avai,2,0,H
+2019,Fortaleza,Avai,2,0,H
+2019,Gremio,Vasco,2,1,H
+2019,Bahia,Santos,0,1,A
+2019,Sao Paulo,Palmeiras,1,1,D
+2019,Flamengo RJ,Goias,6,1,H
+2019,Athletico-PR,Internacional,1,0,H
+2019,Corinthians,CSA,1,0,H
+2019,Cruzeiro,Botafogo RJ,0,0,D
+2019,Chapecoense-SC,Atletico-MG,1,2,A
+2019,Fluminense,Ceara,1,1,D
+2019,Vasco,Fluminense,2,1,H
+2019,Bahia,Cruzeiro,0,0,D
+2019,Ceara,Palmeiras,2,0,H
+2019,CSA,Athletico-PR,0,4,A
+2019,Internacional,Gremio,1,1,D
+2019,Botafogo RJ,Santos,0,1,A
+2019,Atletico-MG,Fortaleza,2,2,D
+2019,Corinthians,Flamengo RJ,1,1,D
+2019,Avai,Goias,0,0,D
+2019,Sao Paulo,Chapecoense-SC,4,0,H
+2019,Palmeiras,Vasco,1,1,D
+2019,Cruzeiro,Athletico-PR,0,2,A
+2019,Fluminense,Sao Paulo,1,2,A
+2019,Internacional,Ceara,1,0,H
+2019,Chapecoense-SC,Bahia,0,0,D
+2019,Flamengo RJ,Botafogo RJ,3,2,H
+2019,Santos,Avai,3,1,H
+2019,Fortaleza,Corinthians,1,3,A
+2019,Goias,Atletico-MG,0,0,D
+2019,CSA,Gremio,0,0,D
+2019,Ceara,Fortaleza,2,1,H
+2019,Fluminense,Internacional,2,1,H
+2019,Santos,Goias,6,1,H
+2019,Avai,Botafogo RJ,0,2,A
+2019,Bahia,Flamengo RJ,3,0,H
+2019,Atletico-MG,Cruzeiro,2,0,H
+2019,Corinthians,Palmeiras,1,1,D
+2019,Vasco,CSA,0,0,D
+2019,Gremio,Chapecoense-SC,3,3,D
+2019,Corinthians,Goias,2,0,H
+2019,Ceara,Chapecoense-SC,4,1,H
+2019,Sao Paulo,Santos,3,2,H
+2019,Flamengo RJ,Gremio,3,1,H
+2019,Atletico-MG,Fluminense,2,1,H
+2019,Internacional,Corinthians,0,0,D
+2019,Avai,Cruzeiro,2,2,D
+2019,Botafogo RJ,Athletico-PR,2,1,H
+2019,Palmeiras,Bahia,2,2,D
+2019,Goias,Vasco,0,1,A
+2019,CSA,Fortaleza,0,2,A
+2019,Corinthians,Botafogo RJ,2,0,H
+2019,Fortaleza,Internacional,0,1,A
+2019,Athletico-PR,Atletico-MG,1,0,H
+2019,Vasco,Flamengo RJ,1,4,A
+2019,Gremio,Palmeiras,1,1,D
+2019,Bahia,Goias,1,1,D
+2019,Cruzeiro,Santos,2,0,H
+2019,Fluminense,CSA,0,1,A
+2019,Sao Paulo,Ceara,1,0,H
+2019,Chapecoense-SC,Avai,1,0,H
+2019,Athletico-PR,Sao Paulo,0,1,A
+2019,Atletico-MG,Bahia,0,1,A
+2019,Gremio,Athletico-PR,2,1,H
+2019,Goias,Internacional,2,1,H
+2019,Santos,Fortaleza,3,3,D
+2019,Vasco,Sao Paulo,2,0,H
+2019,Avai,Corinthians,1,1,D
+2019,Ceara,Flamengo RJ,0,3,A
+2019,CSA,Cruzeiro,1,1,D
+2019,Botafogo RJ,Chapecoense-SC,0,0,D
+2019,Sao Paulo,Gremio,0,0,D
+2019,Bahia,CSA,1,0,H
+2019,Athletico-PR,Ceara,1,0,H
+2019,Chapecoense-SC,Santos,0,1,A
+2019,Internacional,Botafogo RJ,3,2,H
+2019,Flamengo RJ,Palmeiras,3,0,H
+2019,Fortaleza,Goias,2,0,H
+2019,Corinthians,Atletico-MG,1,0,H
+2019,Cruzeiro,Vasco,1,0,H
+2019,Fluminense,Avai,0,1,A
+2019,Corinthians,Ceara,2,2,D
+2019,Vasco,Bahia,0,2,A
+2019,Avai,Flamengo RJ,0,3,A
+2019,Fortaleza,Fluminense,0,1,A
+2019,Internacional,Sao Paulo,1,0,H
+2019,Goias,Palmeiras,1,2,A
+2019,Cruzeiro,Gremio,1,4,A
+2019,Botafogo RJ,Atletico-MG,2,1,H
+2019,Santos,Athletico-PR,1,1,D
+2019,CSA,Chapecoense-SC,2,0,H
+2019,Palmeiras,Fluminense,3,0,H
+2019,Flamengo RJ,Santos,1,0,H
+2019,Chapecoense-SC,Vasco,1,2,A
+2019,Palmeiras,Cruzeiro,1,0,H
+2019,Ceara,Botafogo RJ,0,0,D
+2019,Athletico-PR,Avai,0,1,A
+2019,Atletico-MG,Internacional,1,3,A
+2019,Bahia,Fortaleza,1,1,D
+2019,Fluminense,Corinthians,1,0,H
+2019,Gremio,Goias,3,0,H
+2019,Sao Paulo,CSA,1,1,D
+2019,Botafogo RJ,Sao Paulo,1,2,A
+2019,Cruzeiro,Flamengo RJ,1,2,A
+2019,Corinthians,Bahia,2,1,H
+2019,Santos,Gremio,0,3,A
+2019,Internacional,Chapecoense-SC,1,0,H
+2019,CSA,Ceara,1,0,H
+2019,Fortaleza,Palmeiras,0,1,A
+2019,Vasco,Athletico-PR,1,1,D
+2019,Goias,Fluminense,3,0,H
+2019,Avai,Atletico-MG,1,0,H
+2019,Ceara,Cruzeiro,0,0,D
+2019,Bahia,Botafogo RJ,2,0,H
+2019,Flamengo RJ,Internacional,3,1,H
+2019,Sao Paulo,Goias,0,1,A
+2019,Palmeiras,CSA,6,2,H
+2019,Fluminense,Santos,1,1,D
+2019,Gremio,Avai,6,1,H
+2019,Athletico-PR,Fortaleza,4,1,H
+2019,Flamengo RJ,Sao Paulo,0,0,D
+2019,Corinthians,Vasco,1,0,H
+2019,Fluminense,Gremio,2,1,H
+2019,Internacional,Palmeiras,1,1,D
+2019,Santos,CSA,2,0,H
+2019,Athletico-PR,Chapecoense-SC,1,1,D
+2019,Atletico-MG,Ceara,2,1,H
+2019,Avai,Bahia,0,2,A
+2019,Fortaleza,Botafogo RJ,1,0,H
+2019,Goias,Cruzeiro,1,0,H
+2019,Atletico-MG,Vasco,1,2,A
+2019,Chapecoense-SC,Corinthians,0,1,A
+2019,Sao Paulo,Fortaleza,2,1,H
+2019,Vasco,Santos,0,1,A
+2019,Bahia,Athletico-PR,1,2,A
+2019,Gremio,Corinthians,0,0,D
+2019,Cruzeiro,Internacional,1,1,D
+2019,Chapecoense-SC,Flamengo RJ,0,1,A
+2019,Botafogo RJ,Fluminense,0,1,A
+2019,Ceara,Goias,0,1,A
+2019,Palmeiras,Atletico-MG,1,1,D
+2019,CSA,Avai,3,1,H
+2019,Botafogo RJ,Goias,3,1,H
+2019,CSA,Internacional,1,0,H
+2019,Fortaleza,Chapecoense-SC,2,0,H
+2019,Bahia,Sao Paulo,0,0,D
+2019,Gremio,Ceara,2,1,H
+2019,Cruzeiro,Fluminense,0,0,D
+2019,Santos,Palmeiras,2,0,H
+2019,Avai,Vasco,0,0,D
+2019,Corinthians,Athletico-PR,2,2,D
+2019,Flamengo RJ,Atletico-MG,3,1,H
+2019,Goias,CSA,1,0,H
+2019,Fluminense,Bahia,2,0,H
+2019,Palmeiras,Botafogo RJ,1,0,H
+2019,Athletico-PR,Flamengo RJ,0,2,A
+2019,Ceara,Avai,1,0,H
+2019,Internacional,Santos,0,0,D
+2019,Vasco,Fortaleza,1,0,H
+2019,Sao Paulo,Corinthians,1,0,H
+2019,Atletico-MG,Gremio,1,4,A
+2019,Chapecoense-SC,Cruzeiro,1,1,D
+2019,CSA,Atletico-MG,2,2,A
+2019,Gremio,Bahia,0,1,A
+2019,Fortaleza,Flamengo RJ,1,2,A
+2019,Cruzeiro,Sao Paulo,1,0,A
+2019,Palmeiras,Chapecoense-SC,1,0,A
+2019,Goias,Corinthians,2,2,A
+2019,Vasco,Botafogo RJ,2,1,A
+2019,Avai,Internacional,0,2,A
+2019,Santos,Ceara,2,1,A
+2019,Fluminense,Athletico-PR,1,2,A
+2019,Fortaleza,Gremio,2,1,H
+2019,Corinthians,Cruzeiro,1,2,A
+2019,Atletico-MG,Santos,2,0,H
+2019,Internacional,Vasco,0,1,A
+2019,Sao Paulo,Avai,1,0,H
+2019,Flamengo RJ,Fluminense,2,0,H
+2019,Athletico-PR,Palmeiras,1,1,D
+2019,Chapecoense-SC,Goias,2,2,D
+2019,Bahia,Ceara,1,2,A
+2019,Botafogo RJ,CSA,2,1,H
