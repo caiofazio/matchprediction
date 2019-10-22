@@ -8,94 +8,97 @@ var tabela = [{
 function ComputarJogos(jogo){//JOGO = ANO 0 , HOME 1 , AWAY 2, HOME GOAL 3, AWAY GOAL 4 , RESULT 5
 
     let auxTime1 = jogo[1];
-    let auxTime1Table = procurarTime(auxTime1);
     let auxTime2 = jogo[2];
-    let auxTime2Table = procurarTime(auxTime2)
     let result = jogo[5];
+    
+
+    let auxTime1Table = procurarTime(auxTime1);
+    let auxTime2Table = procurarTime(auxTime2)
 
 
-    if(auxTime1Table != -1){//SE EXISTIR TIME HOME
+    if(auxTime1Table != -1){//SE EXISTIR TIME HOME NA TABLE
          if(result == "H"){
            tabela[auxTime1Table].pontos += 3;
-           tabela[auxTime1Table].golsPro += jogo[3];
-           tabela[auxTime1Table].golsContra += jogo[4];
+           tabela[auxTime1Table].golsPro += parseInt(jogo[3]);
+           tabela[auxTime1Table].golsContra += parseInt(jogo[4]);
            
          }else if(result == "A"){
             tabela[auxTime1Table].pontos += 0;
-            tabela[auxTime1Table].golsPro += jogo[3];
-            tabela[auxTime1Table].golsContra += jogo[4];
+            tabela[auxTime1Table].golsPro += parseInt(jogo[3]);
+            tabela[auxTime1Table].golsContra += parseInt(jogo[4]);
          }else{
             tabela[auxTime1Table].pontos += 1;
-            tabela[auxTime1Table].golsPro += jogo[3];
-            tabela[auxTime1Table].golsContra += jogo[4];
+            tabela[auxTime1Table].golsPro += parseInt(jogo[3]);
+            tabela[auxTime1Table].golsContra += parseInt(jogo[4]);
          }
     }else{//SE O TIME NAO TIVER NA TABLE
           if(result == "H"){
           tabela.push({
                 time: auxTime1,
                 pontos: 3,
-                golsPro: jogo[3],
-                golsContra: jogo[4]
+                golsPro:parseInt( jogo[3]),
+                golsContra:parseInt( jogo[4])
                 })
             }else if(result == "A"){
                   tabela.push({
                         time: auxTime1,
                         pontos: 0,
-                        golsPro: jogo[3],
-                        golsContra: jogo[4]
+                        golsPro:parseInt( jogo[3]),
+                        golsContra:parseInt( jogo[4])
                   })
             }else{
                   tabela.push({
                         time: auxTime1,
                         pontos: 1,
-                        golsPro: jogo[3],
-                        golsContra: jogo[4]
-                  })
+                        golsPro: parseInt(jogo[3]),
+                        golsContra:parseInt( jogo[4])
+               })
             }
             timesAdicionados++;
     }
-    if(auxTime2Table != -1){//SE EXISTIR TIME AWAY
+    if(auxTime2Table != -1){//SE EXISTIR TIME AWAY NA TABLE
       if(result == "H"){
-            tabela[auxTime1Table].pontos += 0;
-            tabela[auxTime1Table].golsPro += jogo[4];
-            tabela[auxTime1Table].golsContra += jogo[3];
+            tabela[auxTime2Table].pontos += 0;
+            tabela[auxTime2Table].golsPro += parseInt(jogo[4]);
+            tabela[auxTime2Table].golsContra += parseInt(jogo[3]);
             
           }else if(result == "A"){
-             tabela[auxTime1Table].pontos += 3;
-             tabela[auxTime1Table].golsPro += jogo[4];
-             tabela[auxTime1Table].golsContra += jogo[3];
+             tabela[auxTime2Table].pontos += 3;
+             tabela[auxTime2Table].golsPro += parseInt(jogo[4]);
+             tabela[auxTime2Table].golsContra += parseInt(jogo[3]);
           }else{
-             tabela[auxTime1Table].pontos += 1;
-             tabela[auxTime1Table].golsPro += jogo[4];
-             tabela[auxTime1Table].golsContra += jogo[3];
+             tabela[auxTime2Table].pontos += 1;
+             tabela[auxTime2Table].golsPro += parseInt(jogo[4]);
+             tabela[auxTime2Table].golsContra += parseInt(jogo[3]);
           }
     }else{//SE O TIME NAO TIVER NA TABLE
       if(result == "A"){
       tabela.push({
-            time: auxTime1,
+            time: auxTime2,
             pontos: 3,
-            golsPro: jogo[4],
-            golsContra: jogo[3]
+            golsPro: parseInt(jogo[4]),
+            golsContra: parseInt(jogo[3])
             })
         }else if(result == "H"){
               tabela.push({
-                    time: auxTime1,
+                    time: auxTime2,
                     pontos: 0,
-                    golsPro: jogo[4],
-                    golsContra: jogo[3]
+                    golsPro: parseInt(jogo[4]),
+                    golsContra: parseInt(jogo[3])
               })
         }else{
               tabela.push({
-                    time: auxTime1,
+                    time: auxTime2,
                     pontos: 1,
-                    golsPro: jogo[4],
-                    golsContra: jogo[3]
+                    golsPro: parseInt(jogo[4]),
+                    golsContra: parseInt(jogo[3])
               })
         }
         timesAdicionados++;
 
 }
-console.log(tabela);
+
+
       
 }
 function AdicionarTimes(temporada){//Pre-processamento da informação
@@ -109,11 +112,12 @@ function AdicionarTimes(temporada){//Pre-processamento da informação
     let yearsToJump = temporada - parseInt(aux);
     //console.log(yearsToJump);
     //console.log(splitedString[yearsToJump * 380])
-    for(let i = yearsToJump * 380; i < ((yearsToJump * 380) + 1); i++){
+    for(let i = yearsToJump * 380; i < ((yearsToJump * 380) + 380); i++){
           //console.log(splitedString[i].split(","))
           ComputarJogos(splitedString[i].split(","));
 
    }
+   console.log(tabela);
    }
    
 }
