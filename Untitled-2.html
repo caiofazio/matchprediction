@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>States generator</title>
+  <meta name="description" content="States generator">
+  <meta name="Caio Fazio Ayres" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+    <textarea name="text1" cols="80" rows="20" class="inputText" id="inputText" onfocus="this.value=''; this.onfocus=null;" ></textarea>
+    <button id="generateButton" onclick="generate()">
+            <div>Generate state</div>
+    </button>
+    <textarea readonly name="text2" cols="80" rows="20" class="inputText" id="outputText"></textarea>
+    <h1 >Formato:</h1>
+    <h2>Sinal1 = NumeroEmBinario</h2>
+    <h3>Sinal2 = NumeroEmBinario</h3>
+    <h4>Sinal3 = NumeroEmBinario</h4>
+    <h5>Sinal4 = NumeroEmBinario</h5>
+    <h5>...</h5>
+  <script>
+  function generate(){
+    var texto = document.getElementById('inputText').value;
+    var res = texto.replace(/}},/g, "}},\n");
+    document.getElementById('outputText').value = res
+  }
+  </script>
+</body>
+</html>
