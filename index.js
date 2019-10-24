@@ -30,7 +30,9 @@ function ComputarJogos(jogo){//JOGO = ANO 0 , HOME 1 , AWAY 2, HOME GOAL 3, AWAY
 
     let auxTime1Table = procurarTime(auxTime1);
     let auxTime2Table = procurarTime(auxTime2)
+    if(Math.floor(rodadasComputadas/10) >= 21){
     BuildData(auxTime1Table, auxTime2Table, dataaux, resultNumber);
+    }
    /*input:
             rodadas:
             pontos;
@@ -175,13 +177,13 @@ function BuildData(timeTable, awayTable, dataaux, resultNumber){
                   input:{
                         //rodadas: 0,
                         pontosHome: tabela[timeTable].pontos/ (Math.floor(rodadasComputadas/ 10) * 3),
-                        saldoGolsHome: 1,
-                        //golsHome:  0,
-                        //golsContraHome: 0,
+                        //saldoGolsHome: 1,
+                        golsHome:  tabela[timeTable].golsPro / 41,
+                        golsContraHome: tabela[timeTable].golsContra / 41,
                         pontosAway: 0,
-                        saldoGolsAway: 0}, 
-                        //golsAway: 0 ,
-                        //golsContraAway: 0},
+                        //saldoGolsAway: 0}, 
+                        golsAway: 0 ,
+                        golsContraAway: 0},
                   output:{
                         gameResult: resultNumber /2 
                   }      
@@ -192,13 +194,13 @@ function BuildData(timeTable, awayTable, dataaux, resultNumber){
                   input:{
                         //rodadas: 0,
                         pontosHome: tabela[timeTable].pontos/ (Math.floor(rodadasComputadas/ 10) * 3),
-                        saldoGolsHome: tabela[timeTable].golsPro/tabela[timeTable].golsContra,
-                        //golsHome:  0,
-                        //golsContraHome: 0,
+                        //saldoGolsHome: tabela[timeTable].golsPro/tabela[timeTable].golsContra,
+                        golsHome:  tabela[timeTable].golsPro / 41,
+                        golsContraHome: tabela[timeTable].golsContra / 41,
                         pontosAway: 0,
-                        saldoGolsAway: 0}, 
-                        //golsAway: 0 ,
-                        //golsContraAway: 0},
+                        //saldoGolsAway: 0}, 
+                        golsAway: 0 ,
+                        golsContraAway: 0},
                   output:{
                         gameResult: resultNumber /2 
                   }      
@@ -207,10 +209,14 @@ function BuildData(timeTable, awayTable, dataaux, resultNumber){
           }
           if(isNaN(tabela[awayTable].golsPro/tabela[awayTable].golsContra) || !isFinite(tabela[awayTable].golsPro/tabela[awayTable].golsContra)){
             dataaux.input.pontosAway = tabela[awayTable].pontos / (Math.floor(rodadasComputadas/ 10) * 3);
-            dataaux.input.saldoGolsAway = 1;
+            //dataaux.input.saldoGolsAway = 1;
+            dataaux.input.golsAway = tabela[awayTable].golsPro / 41
+            dataaux.input.golsContraAway = tabela[awayTable].golsContra / 41
           }else{
             dataaux.input.pontosAway = tabela[awayTable].pontos / (Math.floor(rodadasComputadas/ 10) * 3);
-            dataaux.input.saldoGolsAway = tabela[awayTable].golsPro / tabela[awayTable].golsContra;
+            //dataaux.input.saldoGolsAway = tabela[awayTable].golsPro / tabela[awayTable].golsContra;
+            dataaux.input.golsAway = tabela[awayTable].golsPro / 41
+            dataaux.input.golsContraAway = tabela[awayTable].golsContra / 41
           }
           data.push(dataaux);
       }
@@ -249,7 +255,7 @@ function AdicionarTimes(temporada, prosseguir){//Pre-processamento da informaÃ§Ã
           var nextSeason = splitedString[i + 1].split(",")[0];
           
           }else{
-            console.log(tabela);
+            //console.log(tabela);
           }
           ComputarJogos(aux1);
           rodadasComputadas++;
@@ -288,7 +294,7 @@ function procurarTime(timeProcurado){
      return -1;
 }
 function newSeason(){
-      console.log(tabela);
+      //console.log(tabela);
       console.log("Reseting table, new season arrived")
       tabela = [{
             time: "blank",
@@ -320,7 +326,7 @@ const brain = require('./brain');
 const configNet = {
       //inputSize: 6,
       //inputRange: 20,
-      //hiddenLayers: [4,3,2],
+      hiddenLayers: [8],
       //outputSize: 20,
       //learningRate: 0.1,
       //decayRate: 0.01,
@@ -330,11 +336,11 @@ const configNet = {
 let net = new brain.NeuralNetwork();
     let trainConfig = {
       // Defaults values --> expected validation
-      //iterations: 200000, // the maximum times to iterate the training data --> number greater than 0
+      iterations: 200000, // the maximum times to iterate the training data --> number greater than 0
       //errorThresh: 0.005, // the acceptable error percentage from training data --> number between 0 and 1
       log: true, // true to use console.log, when a function is supplied it is used --> Either true or a function
       logPeriod: 1000, // iterations between logging out --> number greater than 0
-      //learningRate: 0.3, // scales with delta to effect training rate --> number between 0 and 1
+      learningRate: 0.35, // scales with delta to effect training rate --> number between 0 and 1
       //momentum: 0.01, // scales with next layer's change value --> number between 0 and 1
       //callback: null, // a periodic call back that can be triggered while training --> null or function
       //callbackPeriod: 10, // the number of iterations through the training data between callback calls --> number greater than 0
@@ -342,16 +348,20 @@ let net = new brain.NeuralNetwork();
     };
 net.train(data, trainConfig);
 let flahome = (net.run({//rodadas: 26,
-      pontosHome: 61 / (26 * 3),
-      saldoGolsHome:  55/22,
-      pontosAway: 29 / (26 * 3), 
-      saldoGolsAway: 28 / 38}))
+      pontosHome: 61/ (26*3),
+      golsHome:  55/41,
+      golsContraHome: 22/41,
+      pontosAway: 61/(26*3), 
+      golsAway: 55/41,
+      golsContraAway: 22/41}))
 
 let fluhome = (net.run({//rodadas: 26,
-      pontosHome: 80 / (26 * 3),
-      saldoGolsHome:  55/22,
-      pontosAway: 10 / (26 * 3), 
-      saldoGolsAway: 1 / 38}))    
+      pontosHome: 61/ (26*3),
+      golsHome:  55/41,
+      golsContraHome: 22/41,
+      pontosAway: 29/(26*3), 
+      golsAway: 28/41,
+      golsContraAway: 38/41}))    
 console.log(flahome)            
             
 console.log(fluhome)             
